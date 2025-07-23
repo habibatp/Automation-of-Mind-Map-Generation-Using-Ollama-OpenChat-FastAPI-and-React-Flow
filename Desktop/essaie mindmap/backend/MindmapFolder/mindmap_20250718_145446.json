@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de shop des vetements ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de boutique en ligne spécialisée dans les vêtements, offrant une expérience d'achat facile et amusante aux consommateurs."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyser l'offre existante sur le marché des applications de magasins en ligne de vêtements, étudier les tendances de mode, les préférences des clients et les tendances technologiques pour identifier un niche spécifique à exploiter."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'affaires"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Cours et frais de portefeuille, commissions sur chaque vente, services supplémentaires tels que la personnalisation de l'article ou des options de taille ou de couleur."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les acheteurs de mode, les amateurs de vêtements uniques, les clients souhaitant trouver des marques moins connues et plus responsables."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Établir une présence forte sur les réseaux sociaux et les plateformes de publicité en ligne, créer des partenariats avec des influenceurs dans le secteur de la mode et organiser des événements promotionnels."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Plateforme mobile (iOS et Android), API pour les transactions, système de gestion des stocks et de l'inventaire, intégration avec les réseaux sociaux."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Développer rapidement et tester le minimum viable produit (MVP) auprès d'un groupe ciblé de clients, collecter leurs commentaires et améliorer l'application avant la version finale, puis mettre en place une campagne marketing pour attirer un public plus large."
+    }
+  ]
+}

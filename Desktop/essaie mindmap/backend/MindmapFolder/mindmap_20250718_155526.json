@@ -1,0 +1,50 @@
+{
+  "topic": "cree une app de  pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application pour pizzeria, offrant des pizzas artisanal et de haute qualité en utilisant des ingrédients frais et locaux."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché existant des pizzerias, les tendances culinaires et les préférences des consommateurs pour déterminer les opportunités et les défis de l'application."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente directe d'applications aux clients et partenariat avec des restaurants locaux."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Gains issus des ventes de pizzas via l'application, et des commissions perçues des restaurants partenaires."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les jeunes adultes, les familles et les groupes d'amis qui cherchent une option de restauration rapide et de qualité."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utiliser les réseaux sociaux, la publicité en ligne et les collaborations avec des influenceurs pour promouvoir l'application."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js avec Express",
+        "Database": "MongoDB",
+        "Payment Processing": "Stripe"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Beta test privée, lancement public et promotion via les réseaux sociaux et la presse locale."
+    }
+  ]
+}

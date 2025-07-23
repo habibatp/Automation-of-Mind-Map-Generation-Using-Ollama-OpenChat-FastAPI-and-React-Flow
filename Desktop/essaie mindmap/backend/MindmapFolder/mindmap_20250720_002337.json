@@ -1,0 +1,76 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs à dos"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyser le marché existant pour les services de livraison et les applications similaires. Identifier les besoins des clients potentiels et les défis auxquels ils sont confrontés."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Un modèle de business basé sur la commission prise sur chaque transaction entre les vendeurs et les acheteurs de sacs à dos, ainsi que des partenariats avec des marques pour promouvoir leurs produits dans l'application."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Commission",
+          "Description": "Prise de commission sur chaque transaction entre les vendeurs et les acheteurs de sacs à dos."
+        },
+        {
+          "Type": "Partenariats",
+          "Description": "Partenariats avec des marques pour promouvoir leurs produits dans l'application et générer des revenus."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Utilisateurs privés",
+          "Description": "Individus cherchant à acheter ou vendre des sacs à dos occasion ou neufs."
+        },
+        {
+          "Segment": "Entreprises",
+          "Description": "Commerces en ligne vendant des sacs à dos et souhaitant promouvoir leurs produits via l'application."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing incluant la création de contenu, la publicité en ligne, les partenariats avec des influencers et des marques, ainsi que des campagnes d'ambassadeurs."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Tool": "Language de programmation",
+          "Description": "Langage utilisé pour développer l'application, par exemple Swift pour iOS ou Java pour Android."
+        },
+        {
+          "Tool": "Bases de données",
+          "Description": "Systèmes permettant de stocker et de gérer les données de l'application, comme Firebase ou MongoDB."
+        },
+        {
+          "Tool": "API",
+          "Description": "Interfaces d'application qui permettent à l'application d'interagir avec d'autres services en ligne, comme Stripe pour les transactions de paiement."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement comprenant la phase de développement, le marketing, la mise en place des partenariats et le lancer officiel de l'application."
+    }
+  ]
+}

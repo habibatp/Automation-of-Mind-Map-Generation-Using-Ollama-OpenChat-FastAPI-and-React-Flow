@@ -1,0 +1,48 @@
+{
+  "topic": "Application de partage de repas faits maison",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Application de partage de repas faits maison"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étude du marché sur l'intérêt pour les applications de partage de repas et le besoin d'une plateforme dédiée aux repas faits maison."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Plateforme en ligne avec un système de paiement pour les abonnements et des frais pour chaque transaction réussie."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Abonnements mensuels",
+        "Commissions sur chaque transaction"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Utilisateurs souhaitant partager leurs repas faits maison et cherchant des recettes variées."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing en ligne et offline visant à promouvoir l'application et sa fonctionnalité unique."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Développement mobile pour iOS et Android, ainsi qu'un serveur backend pour gérer les transactions et les données des utilisateurs."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement en version bêta pour améliorer l'expérience utilisateur et recevoir des commentaires avant un lancement officiel."
+    }
+  ]
+}

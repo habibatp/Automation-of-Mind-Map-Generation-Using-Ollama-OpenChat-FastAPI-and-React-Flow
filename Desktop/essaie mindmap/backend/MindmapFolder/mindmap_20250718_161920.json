@@ -1,0 +1,57 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Développer une application de livraison écoresponsable pour faciliter les expéditions en respectant l'environnement."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché des applications de livraison actuelles et les solutions d'économie d'énergie, identifier les opportunités et les défis, ainsi que les tendances du secteur écoresponsable."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Combiner des modèles de business traditionnels avec des stratégies écoresponsables, telles que l'optimisation des routes pour réduire le trajet et la consommation d'essence, et encourager les entreprises partenaires à adopter des pratiques écoresponsables."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commissions sur les transactions de livraison",
+        "Abonnements premium pour les fonctionnalités avancées",
+        "Publicité ciblée et partenariats avec des entreprises durables"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Entrepreneurs et petites entreprises de livraison",
+        "Consommateurs individuels soucieux de l'environnement",
+        "Grandes entreprises cherchant à réduire leur empreinte carbone"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utiliser des stratégies marketing digitales, telles que le marketing de contenu et les partenariats avec d'autres entreprises durables pour attirer l'attention du public et promouvoir les avantages écologiques de l'application."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Plateforme mobile (iOS/Android)",
+        "API pour la gestion des livraisons",
+        "Gestion des données écoresponsables (routage optimisé, réduction du trajet)"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Développer un minimum viable produit (MVP) pour tester le concept et rassembler un groupe de fans et d'utilisateurs, puis évaluer les retours et améliorer l'application en fonction des besoins avant une sortie officielle"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étude du marché sur la demande d'applications de livraison de sacs, analyse des concurrents et tendances en matière de commerce en ligne et de vente au détail."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur les commissions perçues auprès des entreprises de vente au détail et/ou des transporteurs pour chaque sac livré."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission perçue auprès des entreprises de vente au détail pour chaque sac livré",
+        "Abonnements mensuels pour les entreprises de vente au détail"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Entreprises de vente au détail, transporteurs, consommateurs finaux cherchant à acheter des sacs en ligne."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Campagne marketing axée sur la sensibilisation du public et l'acquisition de clients en utilisant les réseaux sociaux, le marketing par e-mail et la publicité en ligne."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js",
+        "Database": "MongoDB",
+        "Cloud Services": "AWS"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement en phases avec un test bêta limité, suivi d'une sortie officielle et d'une promotion continue pour attirer les clients et les partenaires."
+    }
+  ]
+}

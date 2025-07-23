@@ -1,0 +1,68 @@
+{
+  "topic": "Créer une app de shop des appareil elecronique ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de shop des appareils électroniques"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche sur le marché pour analyser les tendances, les préférences des consommateurs et les concurrents existants dans le secteur des appareils électroniques"
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente en ligne de produits électroniques avec une plateforme mobile conviviale et des offres spéciales"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "vente",
+          "produits": "appareils électroniques"
+        },
+        {
+          "type": "publicité",
+          "partenaires": "marques et fabricants d'appareils électroniques"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "étudiants",
+        "travailleurs",
+        "familles",
+        "collectionneurs d'appareils électroniques"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing axée sur les réseaux sociaux, la publicité en ligne et des collaborations avec des influencers pour toucher un large éventail de clients"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "nom": "back-end",
+          "technologies": "langage de programmation, base de données"
+        },
+        {
+          "nom": "front-end",
+          "technologies": "interface utilisateur, design responsive"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement progressif avec une version minimale viable pour tester le marché et améliorer l'application en fonction des retours des clients avant un lancement mondial complet"
+    }
+  ]
+}

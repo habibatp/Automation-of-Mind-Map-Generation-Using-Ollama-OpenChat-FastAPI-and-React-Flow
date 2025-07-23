@@ -1,0 +1,67 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison éco-responsable qui connecte les entreprises et les consommateurs avec des services de transport de marchandises durables et respectueux de l'environnement."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des clients, les concurrents existants et les opportunités de croissance dans le secteur des applications de livraison éco-responsable. Identifier les domaines d'amélioration et les opportunités pour proposer un service plus durable."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "Platform",
+        "Value Proposition": "Offrir une solution de livraison plus respectueuse de l'environnement, réduire la pollution et promouvoir le commerce durables.",
+        "Key Partners": "Entreprises de transport écologiques, entreprises productrices, consommateurs.",
+        "Cost Structure": "Coûts de développement de l'application, coûts de maintenance, coûts d'affichage publicitaire et de marketing.",
+        "Revenue Streams": [
+          "Commissions sur chaque transaction",
+          "Abonnements pour les entreprises",
+          "Publicité et partenariats"
+        ]
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "Business Customers": "Entreprises productrices, transports écologiques et services de livraison.",
+        "Individual Consumers": "Clients finals qui recherchent des options de livraison éco-responsables."
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Target Channels": "Sites web, réseaux sociaux, publicités en ligne et offline, partenariats avec des entreprises durables.",
+        "Uniqueness": "Proposition unique de service d'éco-livraison.",
+        "Promotion Tactics": "Campagnes de sensibilisation, témoignages de clients satisfaits, initiatives d'affiliation."
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js et Express",
+        "Database": "MongoDB ou PostgreSQL",
+        "APIs": "API de géolocalisation, API de paiement, API d'intégration avec les partenaires.",
+        "Hosting and DevOps": "Amazon Web Services (AWS) ou Google Cloud Platform (GCP)"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Beta Testing": "Test en interne et inviter des utilisateurs pour tester la fonctionnalité de l'application.",
+        "Official Launch": "Lancer officiellement l'application et attirer les clients et les partenaires.",
+        "Post-Launch Support": "Assurer une assistance continue aux clients, améliorer continuellement l'application en fonction des commentaires et des besoins."
+      }
+    }
+  ]
+}

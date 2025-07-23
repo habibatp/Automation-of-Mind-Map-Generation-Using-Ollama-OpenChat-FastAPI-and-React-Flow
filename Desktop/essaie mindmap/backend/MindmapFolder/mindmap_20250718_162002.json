@@ -1,0 +1,100 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison éco-responsable pour faciliter les achats en ligne et la livraison de produits durables, locaux et certifiés biologiques."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche sur le marché pour identifier les besoins des consommateurs en matière de produits durables et éco-responsables. Analyse des tendances du marché, des concurrents existants et des opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "Marketplace",
+        "Value Proposition": "Offrir aux consommateurs une plateforme de livraison éco-responsable pour acheter des produits durables, locaux et certifiés biologiques.",
+        "Target Partners": "Producteurs locaux, agriculteurs biologiques, entreprises de transport durables."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Name": "Commission sur chaque transaction",
+          "Description": "Percevoir une commission sur chaque vente réalisée via la plateforme."
+        },
+        {
+          "Name": "Abonnement mensuel",
+          "Description": "Offrir un abonnement mensuel pour les utilisateurs souhaitant bénéficier de services supplémentaires, tels que des remises ou des priorités en matière de livraison."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Name": "Consommateurs éco-responsables",
+          "Description": "Personnes souhaitant faire des achats durables et éco-responsables pour minimiser leur impact environnemental."
+        },
+        {
+          "Name": "Producteurs locaux",
+          "Description": "Entreprises locales, agriculteurs biologiques et producteurs de produits durables souhaitant vendre leurs produits sur la plateforme."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Sites web",
+          "Réseaux sociaux",
+          "Partenariats avec des organisations écologiques et durables"
+        ],
+        "Strategies": [
+          "Campagnes de sensibilisation à la cause éco-responsable",
+          "Promotions et remises pour attirer les clients during the launch",
+          "Publicité ciblée sur les sites web et les réseaux sociaux"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Name": "Infrastructure Cloud",
+          "Description": "Utilisation d'un service de cloud pour héberger la plateforme."
+        },
+        {
+          "Name": "API et Intégration",
+          "Description": "Intégration avec les systèmes de paiement, de géolocalisation et de tracking des produits."
+        },
+        {
+          "Name": "Mobile App Development",
+          "Description": "Développement d'une application mobile pour faciliter l'utilisation de la plateforme par les consommateurs."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Timeline": "3 mois",
+        "Stages": [
+          "Market Research and Idea Validation",
+          "Development of MVP (Minimum Viable Product)",
+          "Testing and Iteration",
+          "Marketing and Launch",
+          "Post-Launch Support and Optimization"
+        ]
+      }
+    }
+  ]
+}

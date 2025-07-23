@@ -1,0 +1,106 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs permettrait d'offrir un service de transport et de dépose de sacs pour les utilisateurs, facilitant ainsi la vie quotidienne en évitant le port des sacs."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Il est essentiel de réaliser une recherche de marché approfondie pour identifier les besoins des clients potentiels, analyser les concurrents et déterminer l'offre existante sur le marché. Des enquêtes auprès des utilisateurs, des études de cas et des analyses de données seront réalisées pour fournir une base solide pour la planification stratégique."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle d'entreprise pour cette application repose sur les frais de livraison et les abonnements mensuels. Les clients payeront un coût fixe par sac livré, ainsi qu'un abonnement mensuel pour une utilisation illimitée dans leur zone."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Frais de livraison",
+          "Description": "Un prix de base sera imposé pour chaque sac livré, permettant d'obtenir des revenus directs."
+        },
+        {
+          "Type": "Abonnement mensuel",
+          "Description": "Les clients peuvent choisir un abonnement mensuel pour une utilisation illimitée dans leur zone, générant un flux de trésorerie régulier."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Jeunes professionals",
+          "Description": "Ce segment comprend les personnes âgées de 25 à 40 ans qui mènent une vie en mouvement et ont besoin d'un service de livraison rapide et pratique pour les sacs."
+        },
+        {
+          "Segment": "Étudiants",
+          "Description": "Les étudiants qui se déplacent entre leur domicile, l'école et les lieux de loisirs ont besoin d'un service pour aider à transporter leurs sacs."
+        },
+        {
+          "Segment": "Familles",
+          "Description": "Les familles peuvent utiliser ce service pour aider les parents à déplacer des sacs lors de sorties en famille, des vacances ou d'autres événements."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "Strategy": "Stratégie de partenariat",
+          "Description": "Créer des partenariats avec des entreprises locales pour offrir des remises ou des offres spéciales aux clients qui utilisent l'application."
+        },
+        {
+          "Strategy": "Publicité en ligne",
+          "Description": "Utiliser la publicité ciblée sur les réseaux sociaux et les moteurs de recherche pour atteindre les segments de clients cibles."
+        },
+        {
+          "Strategy": "Influenceurs locaux",
+          "Description": "Collaborer avec des influenceurs locaux pour promouvoir l'application et ses avantages."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Tech": "Gestion de la demande",
+          "Description": "Une interface utilisateur intuitive pour les clients permettant de demander des livraisons de sacs en quelques clics."
+        },
+        {
+          "Tech": "Motorisation",
+          "Description": "Un moteur de gestion d'inventaire qui permet aux opérateurs de suivre les sacs en cours de transport et de planifier les routes optimales."
+        },
+        {
+          "Tech": "Système de paiement",
+          "Description": "Un système de paiement sécurisé pour traiter les transactions clients-fournisseur et les abonnements mensuels."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "Phase": "Lancement en alpha",
+          "Description": "Test de l'application avec un groupe de clients sélectionnés pour recueillir des retours d'expérience et améliorer la fonctionnalité."
+        },
+        {
+          "Phase": "Lancement en bêta",
+          "Description": "Mise en ligne publique de l'application avec un groupe limité de clients pour identifier et résoudre les problèmes techniques et d'affaires."
+        },
+        {
+          "Phase": "Lancement officiel",
+          "Description": "La version finale de l'application est déployée sur tous les appareils cibles et des campagnes de marketing sont lancées pour attirer un large public."
+        }
+      ]
+    }
+  ]
+}

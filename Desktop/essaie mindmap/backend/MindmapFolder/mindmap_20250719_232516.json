@@ -1,0 +1,79 @@
+{
+  "topic": "Créer une app sur la sante comme myfitnesspal",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de gestion de santé personnelle qui aide les utilisateurs à surveiller et à améliorer leur état de santé, similaire à MyFitnessPal."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché pour identifier les besoins des consommateurs en matière de santé, comprendre les tendances actuelles du marché, analyser les concurrents existants et évaluer les opportunités d'amélioration."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "SaaS",
+        "Description": "Modèle commercial basé sur le logiciel en tant que service (Software as a Service), où l'application est offerte gratuitement avec une version payante pour des fonctionnalités supplémentaires."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Abonnement",
+          "Description": "Les utilisateurs paient un abonnement mensuel ou annuel pour accéder à des fonctionnalités avancées de la application, telles que l'analyse personnalisée et les conseils nutritionnels."
+        },
+        {
+          "Type": "Publicité",
+          "Description": "Génération de revenus grâce à la publicité intégrée dans l'application pour les utilisateurs gratuits."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Personnes souhaitant surveiller et améliorer leur santé",
+        "Patients atteints de maladies chroniques ou en surveillance",
+        "Sportifs professionnels et amateur"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Objective": "Aider les utilisateurs à découvrir l'application et à réaliser son utilité.",
+        "Strategies": [
+          "Publicité en ligne et sur les réseaux sociaux",
+          "Partenariats avec des professionnels de la santé",
+          "Influenceurs marketing et blogueurs de santé"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native ou Flutter pour une application mobile cross-platform",
+        "Backend": "Node.js avec Express pour la gestion des données et des services",
+        "Database": "MongoDB ou PostgreSQL pour stocker les informations des utilisateurs",
+        "APIs": "API de tracking nutritionnel, API de conseils médicaux"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Timeline": "Lancer un protocole de beta-test en septembre 2023, puis le lancement officiel en janvier 2024.",
+        "Goals": [
+          "Acquérir 10 000 utilisateurs actifs lors du lancement",
+          "Atteindre un taux de rétention des abonnés de 70% au bout d'un an"
+        ]
+      }
+    }
+  ]
+}

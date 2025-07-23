@@ -1,0 +1,45 @@
+{
+  "topic": "app sur le montage des video",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Une application mobile pour la création et le montage de vidéos, offrant des fonctionnalités avancées et une interface utilisateur intuitive."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyse du marché comprenant l'étude des tendances du marché, des concurrents existants, des besoins des utilisateurs et des opportunités de croissance."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur la monétisation des utilisateurs en fournissant une application gratuite avec fonctionnalités premium payantes."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Ces revenus proviennent de l'abonnement mensuel ou annuel pour les fonctionnalités premium, ainsi que des publicités intégrées et les partenariats avec des marques."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments de clients cibles comprennent les créateurs de contenu, les influencers sociaux, les entreprises et les particuliers souhaitant produire des vidéos de haute qualité."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing incluant la promotion à travers les réseaux sociaux, le partenariat avec d'autres applications, les campagnes publicitaires et les collaborations avec des créateurs influents."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Stack technologique comprenant le développement mobile (React Native ou Flutter), la gestion de données en temps réel (Firebase), l'intégration de bibliothèques pour les effets visuels et l'analyse des données."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement incluant le développement et le test de l'application, la promotion et la mise en ligne du produit, ainsi que la récolte d'opinions des utilisateurs pour améliorer continuellement l'application."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyser les tendances du marché, les besoins des consommateurs et connaître les compétiteurs existants."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service à la demande, modèle freemium ou abonnement"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Frais de livraison, commission sur les ventes, publicité, partenariats avec des magasins"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Utilisateurs individuels et professionnels, entreprises, magasins et restaurants"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing numérique, promotion sociale, partenariats stratégiques, campagnes publicitaires et événements"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Application mobile (iOS et Android), API pour les commerces, systèmes de paiement intégrés, mappage et géolocalisation"
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Test pilote, lancement en phase beta, marketing d'anticipation, lancement officiel, amélioration continue du produit"
+    }
+  ]
+}

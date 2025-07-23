@@ -1,0 +1,84 @@
+{
+  "topic": "Créer une app sur la sante comme myfitnesspal",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de santé qui aide les utilisateurs à surveiller et gérer leurs habitudes alimentaires, leur exercice physique et leur bien-être général, tout en leur fournissant des conseils et des recommandations personnalisés pour atteindre leurs objectifs de santé."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche sur le marché pour identifier les tendances actuelles en matière de santé et d'alimentation, les besoins des utilisateurs, la concurrence existante et les opportunités de marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur l'abonnement mensuel ou annuel pour accéder à des fonctionnalités et des recommandations personnalisées, ainsi que des publicités ciblées et des partenariats avec des entreprises de santé et d'alimentation."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "abonnement",
+          "description": "Abonnements mensuels ou annuels pour accéder à des fonctionnalités et des recommandations personnalisées"
+        },
+        {
+          "type": "publicite",
+          "description": "Publicités ciblées dans l'application"
+        },
+        {
+          "type": "partenariat",
+          "description": "Partenariats avec des entreprises de santé et d'alimentation pour offrir des promotions et des services aux utilisateurs"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "segment": "Conscients de la santé",
+          "description": "Personnes qui souhaitent améliorer leur santé et gérer leurs habitudes alimentaires et d'exercice"
+        },
+        {
+          "segment": "Fitness enthusiasts",
+          "description": "Personnes engagées dans des programmes de fitness et qui cherchent à optimiser leurs résultats"
+        },
+        {
+          "segment": "Patients avec des conditions de santé spécifiques",
+          "description": "Individus ayant des conditions médicales spécifiques et qui nécessitent un suivi alimentaire ou d'exercice adapté"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing comprenant la création de contenu pour les réseaux sociaux, la publicité en ligne, des partenariats avec des influenceurs et des organisateurs de santé, et la participation à des événements et des conférences dans le domaine de la santé et de l'alimentation."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Langage de programmation",
+          "description": "Langage de programmation utilisé pour développer l'application, par exemple Swift pour iOS ou Java pour Android"
+        },
+        {
+          "technology": "Bases de données",
+          "description": "Bases de données utilisées pour stocker les informations des utilisateurs et leurs données d'alimentation et d'exercice"
+        },
+        {
+          "technology": "API",
+          "description": "Application Programming Interface (API) utilisée pour connecter l'application aux services tiers, comme les bases de données ou les plateformes de publicité"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement comprenant le développement et le test de la version initiale de l'application, la création du site Web et des réseaux sociaux pour promouvoir la marque, la préparation des partenariats avec des entreprises de santé et d'alimentation et la mise en place du marketing pour attirer les utilisateurs"
+    }
+  ]
+}

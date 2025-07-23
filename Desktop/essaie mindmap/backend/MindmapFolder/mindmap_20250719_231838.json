@@ -1,0 +1,59 @@
+{
+  "topic": "Créer une app sur la sante comme myfitnesspal",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Developing a health app similar to MyFitnessPal, which helps users track their daily nutrition intake and physical activity."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Conducting research on the current market trends for health and fitness apps, competitors in the same domain, and understanding user preferences and pain points."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Creating a freemium model where basic features are available for free, while advanced features like personalized meal plans and nutritionist consultations are offered as premium subscriptions."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "In-app purchases",
+        "Premium subscription fees",
+        "Advertisements"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Health conscious individuals",
+        "People looking to lose or gain weight",
+        "Athletes and fitness enthusiasts",
+        "General public interested in tracking their nutrition"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utilizing social media, influencers, content marketing, app store optimization, and targeted advertising to reach the target audience."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Mobile App Development (iOS/Android)",
+        "Back-end development (Node.js or Python)",
+        "Database management (MongoDB or MySQL)",
+        "Cloud services (AWS or Google Cloud)"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Soft launch for beta testing, gathering user feedback, and making necessary improvements; followed by a full-scale launch with marketing campaigns and continuous updates based on user feedback."
+    }
+  ]
+}

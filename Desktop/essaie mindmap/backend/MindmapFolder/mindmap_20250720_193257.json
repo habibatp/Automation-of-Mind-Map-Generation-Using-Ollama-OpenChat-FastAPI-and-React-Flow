@@ -1,0 +1,57 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison de sacs personnalisés, permettant aux utilisateurs d'envoyer des sacs pré-remplis ou customizés directement à leurs destinateurs."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Etudier le marché existant des applications de livraison et les tendances en matière de commerce en ligne, pour déterminer l'offre et la demande potentielle de cette application, ainsi que les opportunités et les défis."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service à la carte"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Abonnement mensuel",
+        "Commission sur chaque sac livré"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Particuliers",
+        "Entreprises",
+        "E-commerce"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utiliser les réseaux sociaux, la publicité en ligne et des partenariats avec d'autres applications et entreprises pour promouvoir l'application."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "iOS",
+        "Android",
+        "API de livraison",
+        "Système de paiement"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Développer une version minimale de produit (MVP) pour tester le concept et recueillir des retours d'utilisateurs, puis améliorer et élargir l'application en fonction des commentaires et des besoins du marché."
+    }
+  ]
+}

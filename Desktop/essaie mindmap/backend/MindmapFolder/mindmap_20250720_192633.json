@@ -1,0 +1,80 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché pour identifier les besoins et opportunités dans le secteur du commerce de détail et des services de livraison."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'entreprise pour la création d'une application qui permet aux utilisateurs de commander des sacs personnalisés et bénéficier de services de livraison rapides et efficaces."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Stream": "Livraison de base",
+          "Description": "Frais de livraison standard pour les sacs commandés"
+        },
+        {
+          "Stream": "Livraison express",
+          "Description": "Frais de livraison express pour les sacs commandés"
+        },
+        {
+          "Stream": "Sous-traitance",
+          "Description": "Gains tirés de la sous-traitance d'autres services liés aux sacs, tels que le nettoyage ou la personnalisation supplémentaire"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Consommateurs individuels",
+          "Description": "Personnes achetant des sacs pour leur usage personnel"
+        },
+        {
+          "Segment": "Entreprises",
+          "Description": "Organisations qui souhaitent offrir des sacs personnalisés en tant que produit ou service"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing pour promouvoir l'application et attirer les clients, y compris la création d'une présence en ligne forte et attrayante, des partenariats stratégiques et une campagne publicitaire ciblée."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Technology": "Mobile Application",
+          "Description": "Développement d'une application mobile pour iOS et Android"
+        },
+        {
+          "Technology": "Back-end infrastructure",
+          "Description": "Système de gestion des données et de traitement des commandes"
+        },
+        {
+          "Technology": "Logistique",
+          "Description": "Gestion de la logistique et des services de livraison"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement pour introduire l'application sur le marché, comprenant une phase de test bêta, de promotion active, de lancement officiel et d'amélioration continue après le lancement."
+    }
+  ]
+}

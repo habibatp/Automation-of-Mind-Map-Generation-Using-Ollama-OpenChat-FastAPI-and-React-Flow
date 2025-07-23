@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de location de voiture",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créez une application de location de voiture pour faciliter l'accès aux voitures en location pour les utilisateurs et améliorer l'expérience d'utilisation"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherchez des informations sur la concurrence, les tendances, les besoins des clients et les opportunités de marché pour déterminer si votre application a potentiel"
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Développez un modèle économique en tenant compte des coûts de développement, des frais de maintenance, des frais de marketing et des commissions pour les propriétaires de voitures"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Générez des revenus grâce à la commission prise sur chaque location, aux forfaits annuels, aux options d'assurance et aux services supplémentaires proposés aux utilisateurs"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Ciblez différents segments de clients tels que les particuliers, les entreprises, les touristes et les voyageurs d'affaires"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Créez une stratégie marketing en mettant en avant l'accessibilité, la simplicité et la souplesse de votre application, ainsi que des promotions et des partenariats pour attirer davantage d'utilisateurs"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Choisissez une technologie adaptée pour le développement de l'application, en tenant compte du coût, de la sécurité et de la facilité d'utilisation"
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Planifiez un lancement avec une phase de test bêta, une promotion de lancement et un support continu pour répondre aux besoins des clients et améliorer l'application"
+    }
+  ]
+}

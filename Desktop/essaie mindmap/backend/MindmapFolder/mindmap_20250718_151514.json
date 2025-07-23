@@ -1,0 +1,58 @@
+{
+  "topic": "Créer une app de shop des appareil elecronique ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de shop des appareils électroniques"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché existant pour les apps de shops d'appareils électroniques, analyser les tendances et préférences des consommateurs, identifier les opportunités et défis potentiels"
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente en gros et en détail d'appareils électroniques via l'application, partenariats avec des fabricants et distributeurs d'appareils électroniques"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commissions sur les ventes",
+        "Publicité",
+        "Partenariat avec des marques"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Utilisateurs de smartphones et tablettes, acheteurs d'appareils électroniques"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        "Réseaux sociaux",
+        "Partenariats avec des influencers",
+        "Publicité en ligne",
+        "Campagnes de cross-promotion"
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Frontend: React Native, Swift (iOS), Kotlin (Android)",
+        "Backend: Node.js, Python, PostgreSQL",
+        "API et Intégrations: Shopify API, Amazon API, Google Ads API"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Création d'une MVP pour tester le concept, marketing de la MVP, relance avec améliorations basées sur les commentaires des utilisateurs, pleine commercialisation de l'application"
+    }
+  ]
+}

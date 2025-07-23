@@ -1,0 +1,50 @@
+{
+  "topic": "Créer une app de livraison  des motos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison par motocyclettes pour offrir des services de transport rapide et efficace."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des clients, les concurrents existants et les réglementations locales pour mieux comprendre le marché cible et identifier les opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service à la demande de livraison par motocyclettes avec une approche basée sur l'application mobile pour faciliter la gestion des commandes et des transactions."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Franchise, commission sur chaque transaction, abonnement mensuel pour les clients réguliers et partenariats avec des restaurants et commerces."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Clients individuels, entreprises, restaurants, commerces et autres établissements offrant des produits et services à livrer."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégies de marketing en ligne et offline pour augmenter la visibilité de l'application, telles que la publicité sur les réseaux sociaux, le sponsoring de sites web, la coopération avec des influencers et des events promotionnels."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native ou Flutter pour créer une application mobile cross-plateforme",
+        "Backend": "Node.js ou Django pour gérer les transactions, les commandes et les paiements",
+        "Database": "MongoDB ou PostgreSQL pour stocker les données des clients, des motocyclettes et des commandes",
+        "Map API": "Google Maps API ou Mapbox API pour faciliter la gestion des itinéraires et de la localisation"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Pilote test en une région limitée, marketing et publicité locale, collaboration avec des restaurants et commerces locaux pour attirer les premiers clients et évaluer les performances de l'application avant un lancement national et international."
+    }
+  ]
+}

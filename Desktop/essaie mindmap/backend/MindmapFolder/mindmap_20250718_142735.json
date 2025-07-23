@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de location de voiture",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de location de voiture pour offrir un service de location de véhicules rapide et pratique aux clients, en utilisant des technologies mobiles."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des consommateurs et les concurrents existants dans le domaine de la location de voitures pour mieux comprendre l'industrie et identifier les opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Courants de revenu"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Segments de clients"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Pile technologique"
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement"
+    }
+  ]
+}

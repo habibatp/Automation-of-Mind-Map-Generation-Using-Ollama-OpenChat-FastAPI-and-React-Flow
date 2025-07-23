@@ -1,0 +1,50 @@
+{
+  "topic": "Créer une app sur la sante comme myfitnesspal",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de gestion des aliments et de l'activité pour les utilisateurs, offrant des fonctionnalités similaires à MyFitnessPal."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché existant et les tendances en matière de santé, de nutrition et d'exercice physique. Identifier les besoins des utilisateurs potentiels et leurs préférences en ce qui concerne les applications de gestion des aliments et de l'activité."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Créer une entreprise en ligne, offrant une application gratuite avec des options de forfaits payants pour accéder à des fonctionnalités avancées."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Les revenus seraient générés grâce aux abonnements mensuels ou annuels pour les fonctionnalités payantes, ainsi que grâce aux publicités intégrées dans l'application gratuite."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments de clients cibles inclurais les personnes souhaitant améliorer leur santé et leur bien-être physique, ainsi que ceux qui cherchent à perdre du poids ou à se maintenir dans un état d'équilibre calorique."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Mettre en place une stratégie marketing visant à promouvoir l'application auprès des utilisateurs potentiels, en utilisant les réseaux sociaux, la publicité en ligne et les collaborations avec des influenceurs dans le domaine de la santé et du fitness."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React.js, Angular ou Vue.js",
+        "Backend": "Node.js avec Express.js",
+        "BDD": "MongoDB, PostgreSQL ou Firebase",
+        "API": "APIs pour la gestion des données nutritionnelles et d'exercice physique"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Le lancement de l'application se ferait en plusieurs étapes : déroulement des tests internes, phase de bêta-test avec un groupe cible, amélioration des fonctionnalités en fonction des retours utilisateurs et finalement le lancement officiel sur les plateformes d'iOS et Android."
+    }
+  ]
+}

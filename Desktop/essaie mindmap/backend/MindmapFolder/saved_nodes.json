@@ -1,0 +1,243 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "data": {
+        "label": "Créer une app de livraison des sacs a dos\n"
+      },
+      "position": {
+        "x": 400,
+        "y": 300
+      },
+      "style": {
+        "background": "#f3e5f5",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 300,
+        "fontWeight": "bold",
+        "border": "2px solid #ce93d8",
+        "lineHeight": "1.4"
+      },
+      "width": 300,
+      "height": 45,
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "section-0",
+      "data": {
+        "label": "💡 Idea\nCréer une application de livraison de sacs à dos en ligne et en application mobile."
+      },
+      "position": {
+        "x": 964.3370165745857,
+        "y": 341.22467771639043
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 76,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 964.3370165745857,
+        "y": 341.22467771639043
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-1",
+      "data": {
+        "label": "📊 Market Research\nÉtudier les tendances actuelles du marché des sacs à dos, les besoins des clients et les solutions existantes pour identifier des opportunités d'amélioration et de création de valeur."
+      },
+      "position": {
+        "x": 737.5171205098694,
+        "y": 453.67734150434455
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 126,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 737.5171205098694,
+        "y": 453.67734150434455
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-2",
+      "data": {
+        "label": "💼 Business Model\n• Type : E-commerce\n• Value Proposition : Offrir un large choix de sacs à dos de qualité, personnalisables, livrés rapidement et facilement aux clients.\n• Unique Selling Point : Service de livraison rapide des sacs à dos personnalisés"
+      },
+      "position": {
+        "x": 446.7955801104973,
+        "y": 511.1418047882137
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 143,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 446.7955801104973,
+        "y": 511.1418047882137
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-3",
+      "data": {
+        "label": "💰 Revenue Streams\n• Type : Vente de produits\n• Description : Générer des revenus grâce à la vente de sacs à dos en ligne.\n• Type : Personnalisation\n• Description : Charges pour les personnalisations des sacs à dos."
+      },
+      "position": {
+        "x": 140.47551300762603,
+        "y": 435.8504538432028
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 143,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 140.47551300762603,
+        "y": 435.8504538432028
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-4",
+      "data": {
+        "label": "🎯 Customer Segments\n• Amateurs de design de sacs à dos\n• Utilisateurs souhaitant acheter un sac de qualité.\n• Entreprises voulant offrir des sacs à dos personnalisés à leurs employés ou clients."
+      },
+      "position": {
+        "x": 11.703499079189726,
+        "y": 278.83057090239413
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 126,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 11.703499079189726,
+        "y": 278.83057090239413
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-5",
+      "data": {
+        "label": "📣 Marketing Plan\n• Type : Sérialisation 22\n• Description : Collaborer avec des influencers du design et des voyageurs pour promouvoir le service et les produits.\n• Type : Partenariats\n• Description : Établir des partenariats avec des marques de vêtements ou d'accessoires pour offrir des packages promotionnels.\n• Type : Publicité en ligne\n• Description : Cibler les utilisateurs intéressés par les sacs à dos et la personnalisation sur les réseaux sociaux et Google Ads."
+      },
+      "position": {
+        "x": 54.683616138381126,
+        "y": 27.10534726176968
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 244,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 54.683616138381126,
+        "y": 27.10534726176968
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-6",
+      "data": {
+        "label": "🛠️ Technology Stack\n• Front-end : HTML, CSS, JavaScript\n• Back-end : Node.js, Express, MongoDB\n• Personnalisation : API de personnalisation des sacs à dos\n• Livraison : APIs de transport et logistique"
+      },
+      "position": {
+        "x": 578.2688766114181,
+        "y": 17.550644567219166
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 126,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 578.2688766114181,
+        "y": 17.550644567219166
+      },
+      "dragging": false
+    },
+    {
+      "id": "section-7",
+      "data": {
+        "label": "🚀 Launch Plan\n• Étape : Alpha Testing\n• Description : Test interne du produit pour identifier les problèmes de conception.\n• Étape : Bêta Testing\n• Description : Permettre aux utilisateurs de tester et donner des retours sur le produit.\n• Étape : Lancement officiel\n• Description : Commencer à offrir le service en ligne et en application mobile."
+      },
+      "position": {
+        "x": 1024.975684045781,
+        "y": 36.01879109234059
+      },
+      "style": {
+        "background": "#e3f2fd",
+        "padding": 12,
+        "borderRadius": 12,
+        "width": 280,
+        "whiteSpace": "pre-wrap",
+        "border": "1px solid #90caf9",
+        "lineHeight": "1.4"
+      },
+      "width": 280,
+      "height": 193,
+      "selected": false,
+      "positionAbsolute": {
+        "x": 1024.975684045781,
+        "y": 36.01879109234059
+      },
+      "dragging": false
+    }
+  ]
+}

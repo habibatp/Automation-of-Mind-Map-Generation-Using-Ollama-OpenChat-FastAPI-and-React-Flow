@@ -1,0 +1,79 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison de sacs permettrait d'offrir un service de transport de bagages et d'objets personnels pour les voyageurs, les étudiants et les professionnels en mouvement."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Il est essentiel de connaître le marché et ses besoins pour élaborer une offre adaptée. Des études de marché doivent être effectuées sur la demande de ce type de service, les concurrents existants et leur positionnement, ainsi que l'opportunité d'intégration avec d'autres services tels que les locations de voitures ou d'hébergements."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle économique pourrait être basé sur la facturation par usage (par sac livré), des forfaits quotidiens, hebdomadaires ou mensuels, et la possibilité de négocier des tarifs personnalisés avec des entreprises et des événements."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Usage-based",
+          "description": "Facturation par usage, chaque fois qu'un sac est livré."
+        },
+        {
+          "type": "Subscriptions",
+          "description": "Forfaits quotidiens, hebdomadaires ou mensuels pour les clients réguliers."
+        },
+        {
+          "type": "Custom",
+          "description": "Négociation de tarifs personnalisés avec des entreprises et des événements."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Voyageurs en train, en avion ou en voiture.",
+        "Étudiants déplacés pour des stages ou des échanges internationaux.",
+        "Professionnels qui se déplacent régulièrement pour leurs activités."
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Le plan de marketing doit inclure une stratégie d'acquisition de clients (MAU), un programme de fidélisation (MAM) et des partenariats avec d'autres acteurs du secteur (tels que les hôtels, les gares ou les aéroports). Il est également important d'utiliser le marketing digital (SEO, SEA, SMO, publicité ciblée) pour augmenter la visibilité de l'application et attirer un public large."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "component": "Application mobile",
+          "description": "Une application mobile développée pour Android et iOS, permettant d'effectuer les réservations et la gestion des livraisons."
+        },
+        {
+          "component": "Gestion des réservations",
+          "description": "Un système de gestion des réservations intégré pour suivre les demandes, les livraisons et les paiements en temps réel."
+        },
+        {
+          "component": "API pour les partenaires",
+          "description": "Des API pour faciliter l'intégration avec d'autres services tels que les locations de voitures, d'hébergements ou encore les aéroports et gares."
+        },
+        {
+          "component": "Plateforme web",
+          "description": "Un site web complémentaire pour accueillir des informations supplémentaires sur le service et faciliter la réservation de sacs en ligne."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "La mise en route de l'application devrait se dérouler en plusieurs étapes : 1) Développement du prototype, 2) Test de l'application avec un groupe de bénévoles, 3) Mise en ligne de la version officielle et publicité ciblée, 4) Acquisition de clients et partenariats avec des acteurs du secteur."
+    }
+  ]
+}

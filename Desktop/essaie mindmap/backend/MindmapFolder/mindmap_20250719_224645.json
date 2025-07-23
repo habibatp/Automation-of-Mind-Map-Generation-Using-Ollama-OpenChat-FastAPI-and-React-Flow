@@ -1,0 +1,53 @@
+{
+  "topic": "Créer une app de livraison des moto",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison rapide et écoénergétique sur des motos pour faciliter la répartition des produits acheté en ligne."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché pour identifier les besoins du client, connaître les concurrents existants, analyser les tendances du marché et déterminer les opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur des commissions prélevées sur chaque transaction réussie et publicité dans l'application."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commissions sur les transactions",
+        "Publicité"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Témoins potentiels: Clients d'achat en ligne, entreprises de livraison et restaurateurs."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing pour générer la conscience de la marque, attirer des clients et renforcer la fidélité."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Gestion des données et des informations clients",
+        "Moteurs de recherche et de recommandation",
+        "APIs pour intégrer avec les commerces en ligne",
+        "Technologies de localisation et de suivi"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement comprenant le développement, le test, le marketing et la commercialisation de l'application."
+    }
+  ]
+}

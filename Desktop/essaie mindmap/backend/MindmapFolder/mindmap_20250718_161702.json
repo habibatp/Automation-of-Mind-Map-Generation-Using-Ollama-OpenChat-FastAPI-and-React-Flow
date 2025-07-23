@@ -1,0 +1,56 @@
+{
+  "topic": "Créer une app de pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile pour commander des pizzas en ligne, offrant une expérience d'achat simple et rapide aux clients."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances de la restauration pizza, les goûts des consommateurs, les concurrents existants et les besoins des utilisateurs potentiels pour améliorer l'application et répondre aux attentes du marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle économique repose sur la commission de chaque commande passée via l'application, en partenariat avec des pizzerias locales et des chaînes nationales."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": {
+        "Commissions": "Levées sur chaque commande passée par l'application",
+        "Publicité": "Affichage de publicités pour générer des revenus supplémentaires"
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments cibles comprennent les particuliers, les entreprises et les étudiants."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Social Media": "Utilisation des réseaux sociaux pour promouvoir l'application et attirer des utilisateurs potentiels.",
+        "Partenariats": "Etablir des partenariats avec des pizzerias et des chaînes de restauration pour améliorer la visibilité et la crédibilité de l'application.",
+        "Promotions": "Mettre en place des promotions et des offres spéciales pour attirer les nouveaux clients."
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Backend": "Langage de programmation : Python/Node.js, Base de données : MySQL/MongoDB",
+        "Frontend": "Framework : React/AngularJS, Langage de programmation : JavaScript/TypeScript",
+        "API": "RESTful API pour la gestion des commandes et des informations clients"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancer un prototype minimal viables pour recueillir les commentaires des utilisateurs et améliorer l'application avant sa sortie officielle."
+    }
+  ]
+}

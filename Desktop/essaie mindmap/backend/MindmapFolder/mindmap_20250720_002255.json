@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs à dos personnalisés et durables."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché des sacs à dos, les tendances en matière de durabilité et de responsabilité sociale, ainsi que les concurrents existants."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente directe d'applications et partenariats avec des magasins en ligne et physiques pour offrir des sacs à dos personnalisés et durables."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Revenus provenant des ventes de sacs à dos et des options de personnalisation."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments cibles incluent les amoureux de la marque, les passionnés par l'écologie, les acheteurs de produits durables et les personnes souhaitant montrer leur identité."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing incluant le marketing digital (réseaux sociaux, influenceurs, publicité en ligne), le marketing direct (newsletters, offres spéciales) et la participation aux événements de durabilité."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Technologies nécessaires pour le développement de l'application, tels que des outils d'interface utilisateur, de développement mobile et d'hébergement."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement incluant la création du site Web, la promotion des réseaux sociaux, la collaboration avec les influenceurs et le démarrage de l'application."
+    }
+  ]
+}

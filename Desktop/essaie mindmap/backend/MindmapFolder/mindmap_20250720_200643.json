@@ -1,0 +1,49 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs à dos"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché des produits de transport, l'utilisation des applications de livraison et les besoins des consommateurs."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service en ligne de location de sacs à dos pour différentes activités en extérieur et sports."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Location journalière du sac",
+        "Abonnements mensuels",
+        "Vente d'accessoires"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Actifs sportifs, randonneurs, excursionnaires, personnes souhaitant emprunter un sac à dos pour une activité spécifique."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Publicité en ligne, collaboration avec des influenceurs, offres promotionnelles et partenariats stratégiques."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Application mobile développée en React Native, serveur Node.js pour la gestion des réservations et de l'inventaire, base de données MongoDB."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Phase de test en interne, mise en ligne d'une version minimale viable, promotion auprès des influenceurs et clients cibles."
+    }
+  ]
+}

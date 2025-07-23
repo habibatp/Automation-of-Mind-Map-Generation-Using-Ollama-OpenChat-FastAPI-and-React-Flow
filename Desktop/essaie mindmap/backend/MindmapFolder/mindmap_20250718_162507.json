@@ -1,0 +1,75 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison éco-responsable pour faciliter les achats en ligne et les livraisons en respectant l'environnement, en utilisant des modes de transport durables et en privilégiant les produits et services locaux."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": {
+        "Target Market": "Utilisateurs soucieux de l'environnement, consommateurs conscients, entreprises locales voulant réduire leur empreinte carbone, agriculteurs et producteurs de nourriture biologique.",
+        "Competitors": "Plateformes de livraison existantes (Deliveroo, Uber Eats, DoorDash) et applications éco-responsables (recyclage, réduction des déchets).",
+        "Trends": "Sensibilisation à l'environnement, agriculture durable, alimentation saine, mode de transport en carbone neutre.",
+        "Opportunities": "Partenariats avec des entreprises durables, développement d'un réseau de couriers locaux et écologiques, intégration de la filière de retour des emballages.",
+        "Threats": "Concurrence accroissante, réglementations environnementales, crise économique, faible adoption par les entreprises locales."
+      }
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Model d'affaires à la carte (commissions sur chaque transaction), abonnements mensuels pour les entreprises, services de développement de plateforme pour des entreprises locales."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": {
+        "Transaction Fees": "Commission sur chaque transaction effectuée via l'application.",
+        "Subscriptions": "Abonnements mensuels offerts aux entreprises locales pour un accès prioritaire et des fonctionnalités supplémentaires.",
+        "Premium Features": "Services de développement de plateforme personnalisés pour les entreprises locales qui souhaitent créer leur propre application éco-responsable."
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "Individuals": "Utilisateurs finaux soucieux de l'environnement et du mode de transport durable.",
+        "Local Businesses": "Entreprises locales offrant des produits et services durables, désireuses de réduire leur empreinte carbone et d'accéder à un large public.",
+        "Eco-conscious Brands": "Marques éco-responsables cherchant à promouvoir leurs produits sur une plateforme respectueuse de l'environnement."
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Online Presence": "Site web et réseaux sociaux pour sensibiliser le public et générer des partenariats.",
+        "Influencers and Bloggers": "Collaborations avec des influenceurs et des blogueurs écologiques pour promouvoir l'application.",
+        "Local Events": "Participation à des événements locaux et éco-responsables pour renforcer la présence sur le terrain.",
+        "PR and Media Outreach": "Campagnes publicitaires et relations avec la presse pour attirer l'attention sur l'application."
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "Réact, Vue.js ou Angular pour le développement de l'interface utilisateur.",
+        "Backend": "Node.js avec Express pour la gestion des transactions et des données.",
+        "Database": "MongoDB pour le stockage et la gestion des informations.",
+        "Mapping and Routing": "Google Maps API ou OpenStreetMap pour les fonctionnalités de localisation et de routage.",
+        "Payment Processing": "Stripe, PayPal ou d'autres services de traitement de paiement intégrés."
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Beta Testing": "Phase de test bêta auprès d'utilisateurs et partenaires locaux.",
+        "Marketing and PR": "Campagne de marketing et relations publiques pour attirer l'attention sur la plateforme.",
+        "Soft Launch": "Lancement initial dans un ou plusieurs marchés pour tester l'acceptation du public.",
+        "Full Launch": "Lancement officiel avec des fonctionnalités complètes et une promotion accrue."
+      }
+    }
+  ]
+}

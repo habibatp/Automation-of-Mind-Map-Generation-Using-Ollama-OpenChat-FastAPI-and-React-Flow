@@ -1,0 +1,43 @@
+📄 .env:
+Contient les variables d’environnement sensibles et modifiables pour configurer le backend.
+
+📄 requirements.txt
+Fichier de configuration pour installer les dépendances Python avec pip install -r requirements.txt
+fastapi : Framework web Python moderne et rapide (backend API)
+
+uvicorn : Serveur ASGI performant pour FastAPI
+
+python-dotenv : Pour charger les variables du fichier .env
+
+requests : Pour faire des requêtes HTTP à Ollama
+
+📄 main.py
+✅ Rôle :
+C’est le serveur principal de l’application backend. Il gère :
+
+L’appel à l’API d’Ollama pour générer une mindmap
+
+La sauvegarde de la mindmap générée ou modifiée
+
+La sécurité avec une clé API
+
+Le formatage du JSON final pour le frontend React Flow
+
+
+
+
+📄 MindmapViewer.js
+
+✅ Rôle global :
+Ce composant React :
+
+Génère une mindmap automatiquement en appelant l’API FastAPI (/generate-mindmap)
+
+Affiche les nœuds avec React Flow (nœud central + sections)
+
+Permet d’éditer les nœuds (si editMode activé)
+
+Sauvegarde les modifications sur /save-nodes
+
+Offre l’export en PNG et PDF
+

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "root",
+    "data": {
+      "label": "Créer une app de livraison des sacs\n(Double-cliquez pour éditer)"
+    },
+    "position": {
+      "x": 374,
+      "y": 352
+    },
+    "style": {
+      "background": "#f3e5f5",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 300,
+      "fontWeight": "bold",
+      "border": "2px solid #ce93d8",
+      "lineHeight": "1.4"
+    },
+    "selected": false,
+    "positionAbsolute": {
+      "x": 374,
+      "y": 352
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-0",
+    "data": {
+      "label": "💡 Idea\nCréer  une app de livraison des sacs"
+    },
+    "position": {
+      "x": 744,
+      "y": 346
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 59,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 744,
+      "y": 346
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-1",
+    "data": {
+      "label": "📊 Market Research\nAnalyse du marché pour déterminer les besoins des consommateurs et connaître les tendances actuelles en matière de services de livraison de sacs."
+    },
+    "position": {
+      "x": 705.4213562373095,
+      "y": 571.4213562373095
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 109,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 705.4213562373095,
+      "y": 571.4213562373095
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-2",
+    "data": {
+      "label": "💼 Business Model\nModèle d'affaires basé sur la commission prélevée auprès des magasins partenaires pour chaque livraison effectuée."
+    },
+    "position": {
+      "x": 422,
+      "y": 662
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "selected": false,
+    "positionAbsolute": {
+      "x": 422,
+      "y": 662
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-3",
+    "data": {
+      "label": "💰 Revenue Streams\n• type : Commission\n• description : Frais de commission perçus auprès des magasins partenaires pour chaque sac livré."
+    },
+    "position": {
+      "x": -69.42135623730951,
+      "y": 493.4213562373095
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 109,
+    "selected": false,
+    "positionAbsolute": {
+      "x": -69.42135623730951,
+      "y": 493.4213562373095
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-4",
+    "data": {
+      "label": "🎯 Customer Segments\nLes clients cibles  sont les consommateurs qui ont besoin d'un service de livraison rapide et pratique de sacs."
+    },
+    "position": {
+      "x": -120,
+      "y": 247.99999999999994
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "selected": false,
+    "positionAbsolute": {
+      "x": -120,
+      "y": 247.99999999999994
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-5",
+    "data": {
+      "label": "📣 Marketing Plan\nStratégie de marketing visant à promouvoir l'application auprès des consommateurs potentiels, en utilisant des canaux de communication en ligne et offline."
+    },
+    "position": {
+      "x": -13.42135623730951,
+      "y": -73.42135623730948
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "selected": false,
+    "positionAbsolute": {
+      "x": -13.42135623730951,
+      "y": -73.42135623730948
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-6",
+    "data": {
+      "label": "🛠️ Technology Stack\n• Front-end : React Native\n• Back-end : Node.js\n• Database : MongoDB"
+    },
+    "position": {
+      "x": 730,
+      "y": -118
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 93,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 730,
+      "y": -118
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-7",
+    "data": {
+      "label": "🚀 Launch Plan\nPlan de lancement de l'application comprenant le développement, le marketing et la promotion, ainsi que la mise en place des partenariats avec les magasins."
+    },
+    "position": {
+      "x": 857.4213562373095,
+      "y": 44.57864376269043
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 109,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 857.4213562373095,
+      "y": 44.57864376269043
+    },
+    "dragging": false
+  }
+]

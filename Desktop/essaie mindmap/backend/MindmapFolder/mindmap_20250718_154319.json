@@ -1,0 +1,78 @@
+{
+  "topic": "cree une app de  pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application pour une pizzeria qui offre une expérience d'achat et de livraison rapides, personnalisables et efficaces."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances culinaires actuelles et les préférences des consommateurs en matière de pizza, analyser les concurrents existants, évaluer la demande potentielle pour une application de pizzeria et identifier les opportunités d'amélioration."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "Service",
+        "Value Proposition": "Offrir une expérience d'achat et de livraison rapides et personnalisables de pizza."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": {
+        "Stream": [
+          "Vente de pizza",
+          "Livraison"
+        ],
+        "Pricing Model": "Prix à la carte"
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Jeunes adultes, familles et professionnels souhaitant bénéficier d'une expérience simple et rapide pour commander de la pizza."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Social Media",
+          "Influencers",
+          "Email Marketing",
+          "Content Marketing"
+        ],
+        "Strategies": [
+          "Partenariats avec des influencers",
+          "Campagnes d'emailing promotions",
+          "Publication de contenu sur les réseaux sociaux pour augmenter la visibilité"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js et Express",
+        "Database": "MongoDB",
+        "Payment Processing": "Stripe"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Timeline": "3 mois",
+        "Milestones": [
+          "Conception de l'UI/UX",
+          "Développement du backend et de la base de données",
+          "Intégration des services tiers (payment processing)"
+        ]
+      }
+    }
+  ]
+}

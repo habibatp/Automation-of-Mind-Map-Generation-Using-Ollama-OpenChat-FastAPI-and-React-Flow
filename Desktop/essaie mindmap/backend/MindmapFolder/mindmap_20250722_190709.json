@@ -1,0 +1,66 @@
+{
+  "topic": "Créer une app de livraison des sacs a main ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison de sacs à main pour faciliter le transport des articles achetés en magasin."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des clients et les concurrents existants pour mieux comprendre l'opportunité et les défis potentiels."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "Frais de service",
+        "Description": "Charger une commission sur chaque livraison effectuée par des coureurs indépendants."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission sur chaque livraison",
+        "Partenariats avec des magasins pour des offres et des promotions"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "B2C": "Acheteurs qui souhaitent simplifier le transport de leurs achats en magasin.",
+        "B2B": "Magasins et entreprises désireux d'offrir une option de livraison rapide aux clients."
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        "Campagnes publicitaires en ligne",
+        "Partenariats avec des magasins et des entreprises",
+        "Influenceurs marketing et témoignages"
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Front-end": "React Native pour le développement de l'application mobile",
+        "Back-end": "Node.js pour la gestion des données et des transactions",
+        "API": "RESTful API pour la communication entre les différentes parties de l'application"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        "Test bêta avec un groupe limité de participants",
+        "Lancement officiel dans une ville-témoin",
+        "Rollement progressif à d'autres villes et régions"
+      ]
+    }
+  ]
+}

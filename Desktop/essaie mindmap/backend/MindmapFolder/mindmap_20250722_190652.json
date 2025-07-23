@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison des sacs a main ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs à main."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des clients et les concurrents existants pour mieux comprendre le potentiel du marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle économique peut inclure des commissions pour chaque livraison effectuée et une participation des partenaires commerciaux (magasins, boutiques)."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Les revenus seraient générés par les frais de commission perçus lors des livraisons."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments de clients ciblés pourraient inclure les particuliers et les entreprises, ainsi que ceux cherchant des options de livraison rapide et flexibles."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Planifier une stratégie marketing visant à sensibiliser le public à l'application et aux avantages offerts (service de livraison rapide, sélection de magasins disponibles, etc.)."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Choisir les technologies appropriées pour développer et maintenir l'application (programmation mobile, API, système de paiement en ligne, etc.)."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Préparer un plan de lancement qui inclut le développement de l'application, la promotion du service, et la mise en place d'un système de soutien client."
+    }
+  ]
+}

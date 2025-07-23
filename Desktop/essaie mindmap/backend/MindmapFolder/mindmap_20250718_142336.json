@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison éco-responsable pour faciliter la transition vers un mode de production et de consommation plus durables."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des consommateurs et les initiatives existantes en matière d'économie circulaire et de réduction des émissions de carbone pour mieux comprendre les opportunités et les défis potentiels."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Système d'abonnement, commissions sur chaque livraison, partenariats avec des entreprises durables et écologiques, publicité et sponsorisation"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Abonnements mensuels ou annuels, frais de commission pour chaque livraison effectuée via l'application, partage des bénéfices avec les entreprises locales durables"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Consommateurs conscients de leur empreinte écologique, entrepreneurs et entreprises écoresponsables, communautés locales soucieuses du développement durable"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégies de marketing en ligne (SEO, SMM, REM), partenariats avec des organisations écologistes et durables, campagnes publicitaires ciblées sur les réseaux sociaux et les médias traditionnels"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Plateforme mobile (Android et iOS), API pour les entreprises partenaires, système de localisation géolocale, intégration avec des services de paiement en ligne, plateforme d'administration backend"
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Phase de développement et de test beta, lancement officiel dans un marché cible, expansion à des marchés supplémentaires en fonction du succès initial"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "topic": "Créer une app de pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Develop an app for a pizzeria to streamline orders, improve customer experience, and expand the business."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Conduct market research to identify the target audience, their preferences, and the competitive landscape. Utilize surveys, focus groups, and social media analytics to gather insights."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "The business model involves offering a user-friendly app for ordering pizzas from a pizzeria, with additional features like customization options and loyalty programs. The app aims to increase customer retention and improve operational efficiency."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Order Commissions",
+          "Description": "Earn a percentage of revenue from each order placed through the app."
+        },
+        {
+          "Type": "Subscription Plans",
+          "Description": "Offer subscription plans for exclusive discounts and perks, encouraging repeat purchases."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Food enthusiasts",
+        "Busy professionals",
+        "College students",
+        "Families"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "Strategy": "Social Media Marketing",
+          "Description": "Leverage social media platforms to create awareness, share promotions, and engage with potential customers."
+        },
+        {
+          "Strategy": "Influencer Partnerships",
+          "Description": "Collaborate with local influencers to promote the app and reach a wider audience."
+        },
+        {
+          "Strategy": "App Store Optimization",
+          "Description": "Optimize app listing with relevant keywords, descriptions, and screenshots to improve visibility in app stores."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Mobile App Development Tools: React Native or Flutter"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Launch the app in a specific location, gather feedback from users, iterate based on feedback, and gradually expand to other locations."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyse de l'offre existante et des besoins des clients pour la réduction des déchets, la réutilisation des sacs et la simplification du processus d'achat."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service en ligne de location, vente ou prêt-en-gros d'emballages et sacs réutilisables pour les entreprises et les consommateurs."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Location des sacs",
+        "Vente à la unité",
+        "Abonnements"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Établissements de restauration rapide",
+        "Supermarchés",
+        "Magasins de bricolage",
+        "Entreprises de logistique"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utilisation des réseaux sociaux, des partenariats avec des entreprises locales et des campagnes publicitaires pour promouvoir l'application."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Plateforme mobile Android/iOS",
+        "API de gestion des réservations",
+        "Système de paiement intégré"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Phase d'essai avec un groupe de clients sélectionnés, amélioration et lancement définitif de l'application."
+    }
+  ]
+}

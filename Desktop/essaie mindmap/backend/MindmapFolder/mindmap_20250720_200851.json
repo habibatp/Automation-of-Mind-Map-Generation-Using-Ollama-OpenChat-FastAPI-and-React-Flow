@@ -1,0 +1,81 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs à dos en ligne pour offrir des sacs à dos personnalisés et durables aux consommateurs."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Une recherche sur le marché est nécessaire pour identifier les tendances actuelles du marché, les besoins des clients et les concurrents existants. Cela permettra d'ajuster l'offre en fonction de la demande et d'améliorer les produits et services proposés."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "B2C",
+        "Description": "La start-up vend directement aux consommateurs des sacs à dos personnalisés et durables via son application mobile. Les clients pourront choisir parmi différentes couleurs, modèles et matériaux pour créer leur propre sac à dos unique."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": {
+        "Primary": "Vente de sacs à dos personnalisés",
+        "Secondary": "Services de réparation et d'entretien des sacs à dos"
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Jeunes adultes",
+          "Description": "Les jeunes adultes souhaitant se démarquer et porter un sac à dos unique et durable."
+        },
+        {
+          "Segment": "Cadres et professionnels",
+          "Description": "Professionnels recherchant un sac de travail durable et personnalisé pour transporter leur matériel de bureau."
+        },
+        {
+          "Segment": "Étudiants",
+          "Description": "Étudiants cherchant une alternative écologique et personnalisable aux sacs à dos standard en plastique."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Social Media",
+          "Influenceurs",
+          "Public Relations"
+        ],
+        "Strategies": [
+          "Partenariats avec des influenceurs pour promouvoir les sacs à dos personnalisés.",
+          "Campagnes publicitaires sur les réseaux sociaux pour atteindre un large éventail de clients."
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js avec Express",
+        "Database": "MongoDB"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Soft Launch": "Développement et test de l'application auprès d'un groupe de testers.",
+        "Full Launch": "Lancement public de l'application après révision des retours et améliorations nécessaires."
+      }
+    }
+  ]
+}

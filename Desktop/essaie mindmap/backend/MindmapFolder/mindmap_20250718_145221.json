@@ -1,0 +1,62 @@
+{
+  "topic": "Créer une app de location de voiture",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Develop a mobile application that enables users to rent cars in an efficient and user-friendly manner, providing a convenient alternative to traditional car rental services."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Conduct extensive research on the existing car rental market, including competitors, trends, customer preferences, and pain points. Identify opportunities for differentiation and improvement."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Create a platform that connects car owners with renters, generating revenue through commission fees or subscription models. Consider partnerships with car manufacturers or dealerships to expand the available fleet of vehicles."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission fee for each successful rental transaction",
+        "Subscription plans for frequent renters",
+        "Premium features or services"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Individuals seeking short-term car rentals",
+        "Business travelers",
+        "Tourists visiting new cities"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Develop a multi-channel marketing strategy targeting the identified customer segments. Utilize social media, content marketing, influencer partnerships, and localized advertising to create awareness and drive user acquisition."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js",
+        "Database": "MongoDB",
+        "APIs": "Google Maps API for location services, Stripe API for payments"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        "Soft launch in a select few cities to test the product and gather feedback",
+        "Expand to more cities based on user demand and market response",
+        "Continuously iterate and improve the app based on user feedback and analytics data"
+      ]
+    }
+  ]
+}

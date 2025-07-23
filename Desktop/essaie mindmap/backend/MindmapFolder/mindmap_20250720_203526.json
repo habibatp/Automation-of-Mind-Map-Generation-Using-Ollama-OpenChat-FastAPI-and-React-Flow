@@ -1,0 +1,102 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison de sacs à dos"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "L'étude de marché pour cette idée consiste à analyser le paysage des applications de livraison actuelles, les tendances de consommation, les besoins et préférences des clients, ainsi que les concurrents potentiels dans ce secteur."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle d'entreprise pour cette application sera basé sur une commission prélevée sur chaque transaction effectuée entre les vendeurs et les acheteurs de sacs à dos. Une autre source de revenu peut être la publicité intégrée dans l'application."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Transaction Fees",
+          "description": "Frais de transaction perçus pour chaque vente effectuée via l'application"
+        },
+        {
+          "type": "Advertising Revenue",
+          "description": "Revenus publicitaires générés par la diffusion d'annonces dans l'application"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "segment": "Sellers",
+          "description": "Vendeurs de sacs à dos, individuels et entreprises, qui souhaitent vendre leurs produits via notre application"
+        },
+        {
+          "segment": "Buyers",
+          "description": "Acheteurs de sacs à dos, clients finaux, qui recherchent des sacs à dos personnalisés ou de qualité dans un éventail de prix"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "strategy": "Social Media Marketing",
+          "description": "Utiliser les réseaux sociaux pour promouvoir l'application, créer des partenariats avec des influenceurs et des blogueurs de mode"
+        },
+        {
+          "strategy": "Content Marketing",
+          "description": "Créer du contenu attrayant (blog, vidéos) pour attirer les acheteurs et les vendeurs de sacs à dos"
+        },
+        {
+          "strategy": "Influencer Marketing",
+          "description": "Collaborer avec des influencers dans le domaine de la mode et du streetwear pour promouvoir l'application"
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Mobile App Development Platform",
+          "description": "Plateforme de développement mobile permettant de créer une application iOS et Android"
+        },
+        {
+          "technology": "Back-End Server",
+          "description": "Serveur de gestion des données, des transactions et de la communication entre les utilisateurs et l'application"
+        },
+        {
+          "technology": "Payment Gateway Integration",
+          "description": "Intégration d'une plateforme de paiement pour gérer les transactions en ligne"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "step": "Pre-launch",
+          "description": "Création du site web promotionnel, réseaux sociaux et campagne de marketing"
+        },
+        {
+          "step": "Soft Launch",
+          "description": "Lancement beta de l'application pour un groupe sélectionné d'utilisateurs et vendeurs, collecte de commentaires et améliorations"
+        },
+        {
+          "step": "Full Launch",
+          "description": "Lancement officiel de l'application sur les app stores, marketing intensive et acquisition de nouveaux utilisateurs et vendeurs"
+        }
+      ]
+    }
+  ]
+}

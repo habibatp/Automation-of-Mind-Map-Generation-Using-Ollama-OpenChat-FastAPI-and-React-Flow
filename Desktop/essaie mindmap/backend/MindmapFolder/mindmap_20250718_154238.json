@@ -1,0 +1,68 @@
+{
+  "topic": "cree une app de  pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Create an app for a pizzeria to streamline ordering, customization, and delivery."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Conduct research on existing pizzerias' apps, customer preferences, and market trends to identify gaps and opportunities."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "The business model will be based on commission from each order placed through the app and potential in-app advertising from partner businesses."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Transaction Commission",
+          "Description": "Charge a percentage fee for each order processed through the app."
+        },
+        {
+          "Type": "In-App Advertising",
+          "Description": "Generate revenue by offering ad space in the app to local businesses."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Pizzeria Owners",
+          "Description": "Business owners looking for a convenient and efficient way to manage orders and customer interactions."
+        },
+        {
+          "Segment": "End Consumers",
+          "Description": "People who enjoy pizza and are seeking a simple, user-friendly way to order their favorite dishes."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utilize social media marketing, local partnerships, and targeted advertising to reach potential customers and pizzeria owners."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js",
+        "Database": "MongoDB",
+        "API": "Firebase"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Develop a Minimum Viable Product (MVP), perform beta testing, gather feedback, and iterate before a full-scale launch."
+    }
+  ]
+}

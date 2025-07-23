@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs personnalisés, permettant aux utilisateurs d'ordonner des sacs créés sur mesure et de les faire livrer directement chez eux."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Il est important de rechercher la demande actuelle pour les produits similaires, ainsi que les tendances de l'industrie du commerce électronique et du secteur des services de livraison. Il convient également d'étudier les concurrents existants et d'analyser leurs faiblesses et forces."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle d'entreprise pour cette idée est le modèle de vente en ligne, où les clients commandent des sacs personnalisés sur la plateforme et les font livrer chez eux. La marge peut être générée par la différence entre le prix de vente et le coût de production."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Les revenus peuvent provenir des ventes de sacs personnalisés, ainsi que des services supplémentaires tels que la personnalisation additionnelle, les options de livraison rapide ou encore des abonnements mensuels pour des offres spéciales."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les segments de clients potentiels comprennent les amateurs de design et de mode, les professionnels du sport, les entreprises et les organisations qui cherchent à promouvoir leur image de marque en utilisant des sacs personnalisés."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Le plan de marketing devrait se concentrer sur la promotion de l'application et des sacs personnalisés. Cela pourrait inclure le marketing de contenu, les partenariats avec des influenceurs et des marques, ainsi que des campagnes publicitaires en ligne."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "La technologie nécessaire pour cette idée comprend un site web/application mobile, une plateforme de gestion des commandes et des paiements, ainsi qu'un système de suivi des expéditions. Les technologies à considérer incluent React Native pour le développement mobile, Firebase pour la gestion des données et Shopify pour la vente en ligne."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Le lancement devrait inclure le développement du site web/application mobile, l'établissement d'un réseau de partenaires et d'influenceurs, ainsi que la promotion sur les réseaux sociaux et les plateformes publicitaires. Une phase de test beta est également recommandée pour collecter des retours utiles avant le lancement officiel."
+    }
+  ]
+}

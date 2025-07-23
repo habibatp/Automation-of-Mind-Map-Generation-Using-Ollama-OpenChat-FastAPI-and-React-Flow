@@ -1,0 +1,72 @@
+{
+  "topic": "app sur la sante mentale",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Application pour la santé mentale"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyse de marché sur les applications de santé mentale, tendances et besoins des utilisateurs, concurrence et opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle commercial basé sur des abonnements mensuels, services personnalisés et partenariats avec des professionnels de la santé."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Abonnements",
+          "Description": "Utilisateurs paient un abonnement mensuel pour accéder à des fonctionnalités avancées et des services personnalisés."
+        },
+        {
+          "Type": "Partenariats",
+          "Description": "Collaboration avec des professionnels de la santé pour offrir des services de conseil et d'accompagnement aux utilisateurs."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Personnes souffrant de troubles mentaux",
+          "Description": "Utilisateurs qui cherchent un support pour gérer leurs problèmes émotionnels et psychologiques."
+        },
+        {
+          "Segment": "Professionnels de la santé",
+          "Description": "Médailleurs et psychiats qui souhaitent offrir des services de suivi et d'accompagnement aux patients."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing axé sur l'attractivité du produit, la sensibilisation à la santé mentale et le partenariat avec des organisations et des influenceurs."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Technologie": "Language de programmation",
+          "Description": "Langage utilisés pour développer l'application, comme Swift ou Kotlin."
+        },
+        {
+          "Technologie": "Base de données",
+          "Description": "Système de gestion de base de données pour stocker et gérer les données des utilisateurs, comme MySQL ou MongoDB."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement de l'application en plusieurs étapes : développement, test, marketing et distribution."
+    }
+  ]
+}

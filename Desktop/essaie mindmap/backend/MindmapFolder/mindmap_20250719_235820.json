@@ -1,0 +1,70 @@
+{
+  "topic": "app pour cycle menstruel comme app flow",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile pour suivre les cycles menstruels, similaire à l'application Flow."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier la demande et les besoins des utilisatrices de applications de suivi de cycle menstruel existantes, ainsi que les avancées technologiques dans le domaine pour proposer une solution innovante et complète."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Proposer des abonnements mensuels ou annuels pour des fonctionnalités avancées et personalisées, ainsi que la vente d'espaces publicitaires à des partenaires pertinents."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Subscription",
+          "description": "Abonnements mensuels ou annuels pour des fonctionnalités avancées et personalisées."
+        },
+        {
+          "type": "Advertising",
+          "description": "Vente d'espaces publicitaires à des partenaires pertinents."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Femmes souhaitant suivre leur cycle menstruel et optimiser leur bien-être.",
+        "Professionnels de la santé souhaitant recommander une application pour leurs patients ou clients."
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing axée sur la visibilité en ligne, le partenariat avec des influenceuses et des professionnels de la santé, ainsi que des campagnes publicitaires ciblées."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Programming Language",
+          "language": "Swift pour iOS ou Kotlin pour Android."
+        },
+        {
+          "technology": "Database",
+          "type": "Cloud-based database, comme Firebase ou AWS."
+        },
+        {
+          "technology": "API",
+          "description": "API pour la synchronisation des données entre l'application et les services tiers."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement en plusieurs étapes : Phase de développement, phase de test bêta, phase d'amélioration, puis lancement officiel sur App Store et Google Play."
+    }
+  ]
+}

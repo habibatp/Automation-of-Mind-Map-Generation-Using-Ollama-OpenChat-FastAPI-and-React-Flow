@@ -1,0 +1,78 @@
+{
+  "topic": "cree une app de  pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application pour une pizzeria en ligne qui permet aux clients d'ordonner des pizzas et autres plats de restauration rapide directement à partir de l'application."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances actuelles de la restauration rapide, les préférences culinaires des clients, les concurrents existants dans le secteur et les tendances technologiques pour mieux comprendre le marché et identifier les opportunités."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "E-commerce",
+        "Value Proposition": "Offrir une expérience d'ordonnance en ligne rapide, pratique et sécurisée pour les clients."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Stream": "Livraison des commandes",
+          "Description": "Frais de livraison chargés aux clients lors de la commande d'une pizza ou d'un autre plat."
+        },
+        {
+          "Stream": "Commission sur les ventes",
+          "Description": "La commission perçue pour chaque vente réalisée via l'application."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Familles",
+        "Jeunes adultes",
+        "Couples",
+        "Travailleurs"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Objective": "Aider la pizzeria à atteindre un large public et générer des ventes en ligne.",
+        "Strategies": [
+          "Publicité en ligne",
+          "Partenariats avec d'autres entreprises locales",
+          "Promotions et offres spéciales",
+          "Soutien à la communauté locale"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js",
+        "Database": "MongoDB",
+        "Payment Gateway": "Stripe"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Beta Testing": "Avant la sortie officielle de l'application, mettre en place un programme de test bêta pour recueillir des commentaires et améliorer l'expérience utilisateur.",
+        "Official Launch": "Lancer l'application après avoir effectué les mises à jour et les ajustements nécessaires en fonction des retours du test bêta."
+      }
+    }
+  ]
+}

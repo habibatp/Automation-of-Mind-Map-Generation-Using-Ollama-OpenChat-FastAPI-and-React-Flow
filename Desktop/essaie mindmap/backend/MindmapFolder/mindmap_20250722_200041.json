@@ -1,0 +1,50 @@
+{
+  "topic": "Créer une app de livraison des sacs a main ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs à main permettant aux utilisateurs de demander un sac adapté à leurs besoins et de le faire livrer rapidement."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances actuelles du secteur des services de livraison, analyser les offres existantes sur le marché, identifier les lacunes dans la couverture des produits disponibles et évaluer la demande pour un service dédié aux sacs à main."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Service de plateforme"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Frais de livraison, tarifs de location des sacs"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Utilisateurs urbains et voyageurs, professionnels du business travel, personnes souhaitant louer des sacs pour des événements particuliers"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Campagnes marketing en ligne (réseaux sociaux, publicité ciblée), partenariats avec des entreprises de voyage et d'hébergement, influenceurs et blogueurs dans le domaine du voyage"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Front-end": "React ou Vue.js",
+        "Back-end": "Node.js avec Express.js",
+        "Base de données": "MongoDB",
+        "API": "Mapbox API pour la localisation et l'affichage des itinéraires"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Développement minimum viable produit (MVP), test en interne, tests bêta avec une sélection d'utilisateurs, lancement public, mise à jour continue du produit et amélioration des fonctionnalités en fonction des retours utilisateurs et des performances"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étude du marché pour analyser les tendances, les besoins des clients et les concurrents existants dans le secteur des applications de livraison de produits."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur la commission prélevée sur chaque transaction effectuée à travers l'application."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission sur chaque transaction",
+        "Abonnements premium pour les utilisateurs"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Utilisateurs individuels",
+        "Entreprises de livraison",
+        "Magasins et boutiques en ligne"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing incluant la création d'une présence en ligne, des partenariats avec des magasins et boutiques en ligne, des promotions et des campagnes publicitaires."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Blocs de construction mobile (React Native ou Flutter)"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement comprenant la mise en place du site web, de la présence en ligne, des partenariats et des promotions pour attirer les premiers utilisateurs et les commerçants."
+    }
+  ]
+}

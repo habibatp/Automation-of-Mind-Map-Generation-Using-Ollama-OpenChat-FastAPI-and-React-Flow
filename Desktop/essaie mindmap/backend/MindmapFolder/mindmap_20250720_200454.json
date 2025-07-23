@@ -1,0 +1,102 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créez une application de livraison de sacs pour faciliter le transport et l'organisation des biens"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analysez les tendances du marché, les besoins des clients et les concurrents existants pour comprendre le potentiel et les opportunités dans ce domaine."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Proposez une solution de transport de sacs en ligne et mobile qui répond aux besoins des utilisateurs et permet de générer des revenus pour votre entreprise."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Subscription",
+          "description": "Offrez un abonnement mensuel ou annuel pour les clients qui souhaitent utiliser l'application à long terme."
+        },
+        {
+          "type": "Transaction Fee",
+          "description": "Chargez une commission sur chaque transaction réussie pour les utilisateurs qui effectuent des livraisons de sacs."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "segment": "Individuals",
+          "description": "Utilisateurs privés qui souhaitent simplifier la gestion et le transport de leurs sacs et biens."
+        },
+        {
+          "segment": "Businesses",
+          "description": "Entreprises qui ont besoin d'organiser et de transporter des sacs de documents, équipements ou marchandises."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "channel": "Social Media",
+          "strategy": "Utilisez les réseaux sociaux pour promouvoir votre application et générer des leads potentiels."
+        },
+        {
+          "channel": "Influencer Marketing",
+          "strategy": "Collaborez avec des influencers pour faire connaître votre application et attirer un public cible."
+        },
+        {
+          "channel": "Content Marketing",
+          "strategy": "Créez du contenu pertinent et engageant pour informer et éduquer les utilisateurs sur l'utilité de votre application."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Mobile App Development",
+          "platforms": "iOS, Android"
+        },
+        {
+          "technology": "Web Application",
+          "platforms": "Browser-based"
+        },
+        {
+          "technology": "API Integration",
+          "services": "Map services, Payment gateways"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "phase": "Beta Testing",
+          "description": "Lancez une version bêta de l'application pour recueillir des retours et des commentaires des utilisateurs."
+        },
+        {
+          "phase": "Full Launch",
+          "description": "Déployez l'application en toute sécurité et en fonctionnement sur les plates-formes cibles (iOS, Android, Web)."
+        },
+        {
+          "phase": "Marketing Campaign",
+          "description": "Lancez une campagne marketing pour promouvoir votre application et attirer les clients."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyse du marché pour déterminer les besoins des consommateurs et connaître les tendances actuelles en matière de services de livraison de sacs."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'affaires basé sur la commission prélevée auprès des magasins partenaires pour chaque livraison effectuée."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Commission",
+          "description": "Frais de commission perçus auprès des magasins partenaires pour chaque sac livré."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Les clients cibles sont les consommateurs qui ont besoin d'un service de livraison rapide et pratique de sacs."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing visant à promouvoir l'application auprès des consommateurs potentiels, en utilisant des canaux de communication en ligne et offline."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Front-end": "React Native",
+        "Back-end": "Node.js",
+        "Database": "MongoDB"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement de l'application comprenant le développement, le marketing et la promotion, ainsi que la mise en place des partenariats avec les magasins."
+    }
+  ]
+}

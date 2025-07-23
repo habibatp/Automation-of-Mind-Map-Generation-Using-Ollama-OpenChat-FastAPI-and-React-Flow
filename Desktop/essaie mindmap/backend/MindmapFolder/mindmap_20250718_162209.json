@@ -1,0 +1,58 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison éco-responsable"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des consommateurs et les initiatives existantes en matière d'écologie et de responsabilité environnementale."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle éco-responsable basé sur la coopération avec des restaurants, des entreprises et des partenaires locaux pour favoriser l'utilisation de contenants réutilisables et de modes de transport écologiques."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commissions sur les livraisons",
+        "Publicité",
+        "Partenariats"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Utilisateurs finaux (clients du restaurant)",
+        "Restaurants et entreprises",
+        "Partenaires environnementaux"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing axée sur la sensibilisation à l'écologie, les partenariats avec des organisations écologistes et l'utilisation des réseaux sociaux."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Front-end": "React.js",
+        "Back-end": "Node.js",
+        "Database": "MongoDB",
+        "API": "Mapbox API, OpenStreetMap API"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement en étapes : phase de test avec un groupe restreint d'utilisateurs, amélioration et ajustement du produit à partir des commentaires, puis lancer pleinement le service dans une région ou une ville."
+    }
+  ]
+}

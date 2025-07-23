@@ -1,0 +1,58 @@
+{
+  "topic": "cree une app de  pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Create an app for a pizzeria that allows users to order pizza online, customize their orders, track delivery, and provide a seamless user experience."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Conduct research on the pizza industry, competitors' apps, and target audience preferences. Analyze market trends and gather feedback from potential customers."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "A combination of direct sales and partnerships with restaurants or delivery services. Offer various pricing tiers for different features and subscription plans for businesses."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission on each sale made through the app",
+        "Subscription fees from restaurants and delivery partners",
+        "In-app advertising"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Individual pizza lovers",
+        "Restaurants",
+        "Delivery services"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Create a strong online presence through social media, SEO, and content marketing. Offer promotions and discounts to attract early adopters. Collaborate with influencers and food bloggers."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native or Flutter for cross-platform mobile app development",
+        "Backend": "Node.js, Express.js, or Django for server-side operations",
+        "Database": "MongoDB or PostgreSQL for data storage",
+        "Payment Processing": "Stripe or PayPal for secure transactions"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Beta test the app with a small group of users, gather feedback, and make necessary improvements. Launch the app on iOS and Android platforms, with continuous updates based on user feedback."
+    }
+  ]
+}

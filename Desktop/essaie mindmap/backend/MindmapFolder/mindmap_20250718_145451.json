@@ -1,0 +1,57 @@
+{
+  "topic": "Créer une app de shop des vetements ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de boutique en ligne de vêtements"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier l'industrie de la mode, les tendances actuelles et passées, les plateformes concurrentielles existantes, les besoins des clients et leurs préférences pour créer une boutique en ligne qui répond aux attentes du marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente à distance de vêtements en ligne, offrant une variété de styles, tailles et modèles pour différentes segments de clientèle."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Ventes de produits",
+        "Publicité",
+        "Partenariats avec des marques de vêtements"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Adolescents et jeunes adultes",
+        "Professionnels",
+        "Familles"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Utiliser les réseaux sociaux, la publicité en ligne, le marketing par e-mail, la collaboration avec des influencers et des blogueurs de mode pour promouvoir la boutique et attirer des clients."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Côté frontal : React/Angular/Vue.js",
+        "Côté backend : Node.js/Django/Ruby on Rails",
+        "Base de données : MongoDB/PostgreSQL/MySQL"
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Établir un planning détaillé pour le lancement, y compris le développement du site web, la promotion des produits et la création de contenu. Lancer progressivement la boutique avec une sélection limitée de vêtements avant d'augmenter progressivement l'offre en fonction de la demande."
+    }
+  ]
+}

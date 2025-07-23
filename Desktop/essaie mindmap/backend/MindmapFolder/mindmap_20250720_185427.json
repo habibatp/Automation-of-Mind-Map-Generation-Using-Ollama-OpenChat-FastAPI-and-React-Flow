@@ -1,0 +1,59 @@
+{
+  "topic": "app  sur montage video",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Création d'une application mobile pour la création et le montage de vidéos."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Une recherche de marché détaillée pour évaluer les tendances actuelles, les besoins des utilisateurs et les concurrents existants dans le domaine du montage vidéo mobile."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle de business basé sur des abonnements mensuels, des inscriptions annuelles et des options de création payantes pour générer des revenus."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Abonnement mensuel",
+        "Inscription annuelle",
+        "Options de création payantes"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Créateurs de contenu indépendants",
+        "Entreprises de marketing digital",
+        "Utilisateurs particuliers intéressés par le montage vidéo"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing incluant la création de contenus promotionnels, la participation aux événements industriels et l'utilisation des réseaux sociaux pour attirer et convertir les clients."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        "Langage de programmation: Swift (iOS) / Kotlin (Android)",
+        "Framework d'interface utilisateur: React Native",
+        "Base de données: Firebase ou Cloud Firestore",
+        "Service d'hébergement vidéo: Amazon S3, Google Cloud Storage ou autres",
+        "API d'intégration: YouTube, Instagram, Facebook, etc."
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement comprenant le développement initial de l'application, la phase de test bêta, la collecte de commentaires et d'améliorations, puis le lancement officiel sur les App Store et Google Play."
+    }
+  ]
+}

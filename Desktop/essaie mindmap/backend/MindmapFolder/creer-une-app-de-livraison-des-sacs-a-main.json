@@ -1,0 +1,197 @@
+[
+  {
+    "id": "root",
+    "data": {
+      "label": "Créer une app de livraison des sacs a main \n(Double-cliquez pour éditer)"
+    },
+    "position": {
+      "x": 400,
+      "y": 300
+    },
+    "style": {
+      "background": "#f3e5f5",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 300,
+      "fontWeight": "bold",
+      "border": "2px solid #ce93d8",
+      "lineHeight": "1.4"
+    },
+    "width": 300,
+    "height": 62
+  },
+  {
+    "id": "section-0",
+    "data": {
+      "label": "💡 Idea\nCréer une application de livraison de sacs à main permettant aux utilisateurs de demander un sac adapté à leurs besoins et de le faire livrer rapidement."
+    },
+    "position": {
+      "x": 600,
+      "y": 300
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 109
+  },
+  {
+    "id": "section-1",
+    "data": {
+      "label": "📊 Market Research\nÉtudier les tendances actuelles du secteur des services de livraison, analyser les offres existantes sur le marché, identifier les lacunes dans la couverture des produits disponibles et évaluer la demande pour un service dédié aux sacs à main."
+    },
+    "position": {
+      "x": 541.4213562373095,
+      "y": 441.4213562373095
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 143
+  },
+  {
+    "id": "section-2",
+    "data": {
+      "label": "💼 Business Model\nService de plateforme"
+    },
+    "position": {
+      "x": 400,
+      "y": 500
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 59
+  },
+  {
+    "id": "section-3",
+    "data": {
+      "label": "💰 Revenue Streams\nFrais de livraison, tarifs de location des sacs"
+    },
+    "position": {
+      "x": 258.5786437626905,
+      "y": 441.4213562373095
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 59
+  },
+  {
+    "id": "section-4",
+    "data": {
+      "label": "🎯 Customer Segments\nUtilisateurs urbains et voyageurs, professionnels du business travel, personnes souhaitant louer des sacs pour des événements particuliers"
+    },
+    "position": {
+      "x": 200,
+      "y": 300
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 93
+  },
+  {
+    "id": "section-5",
+    "data": {
+      "label": "📣 Marketing Plan\nCampagnes marketing en ligne (réseaux sociaux, publicité ciblée), partenariats avec des entreprises de voyage et d'hébergement, influenceurs et blogueurs dans le domaine du voyage"
+    },
+    "position": {
+      "x": 258.5786437626905,
+      "y": 158.57864376269052
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 126
+  },
+  {
+    "id": "section-6",
+    "data": {
+      "label": "🛠️ Technology Stack\n• Front-end : React ou Vue.js\n• Back-end : Node.js avec Express.js\n• Base de données : MongoDB\n• API : Mapbox API pour la localisation et l'affichage des itinéraires"
+    },
+    "position": {
+      "x": 371.99999999999994,
+      "y": -62
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 126,
+    "selected": true,
+    "positionAbsolute": {
+      "x": 371.99999999999994,
+      "y": -62
+    },
+    "dragging": false
+  },
+  {
+    "id": "section-7",
+    "data": {
+      "label": "🚀 Launch Plan\nDéveloppement minimum viable produit (MVP), test en interne, tests bêta avec une sélection d'utilisateurs, lancement public, mise à jour continue du produit et amélioration des fonctionnalités en fonction des retours utilisateurs et des performances"
+    },
+    "position": {
+      "x": 541.4213562373095,
+      "y": 158.57864376269046
+    },
+    "style": {
+      "background": "#e3f2fd",
+      "padding": 12,
+      "borderRadius": 12,
+      "width": 280,
+      "whiteSpace": "pre-wrap",
+      "border": "1px solid #90caf9",
+      "lineHeight": "1.4"
+    },
+    "width": 280,
+    "height": 143
+  }
+]

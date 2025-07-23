@@ -1,0 +1,72 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile de livraison de sacs pour faciliter le transport et la distribution des bagages, notamment dans les airports."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des voyageurs et les exigences des aéroports concernant les services de livraison de bagages. Identifier les concurrents existants et leurs offres similaires."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique basé sur des frais de service pour chaque sac livré, ainsi que potentiellement des partenariats avec les aéroports et les compagnies aériennes."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "Frais de service",
+          "description": "Cotisation perçue pour chaque sac livré par l'application."
+        },
+        {
+          "type": "Partenariats",
+          "description": "Accords avec les aéroports et les compagnies aériennes pour une participation aux bénéfices ou des avantages en retour."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "segment": "Voyageurs",
+          "description": "Personnes voyageant par avion et souhaitant éviter les embouteillages aux sorties des aéroports ou les frais de taxis pour transporter leur bagage."
+        },
+        {
+          "segment": "Aéroports",
+          "description": "Infrastructure aérienne et personnel chargé de gérer le service de livraison de sacs à l'intérieur et en dehors des limites de l'aéroport."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Créer une campagne marketing axée sur les avantages pour les voyageurs (temps gagné, facilité) et les aéroports (efficacité, amélioration des services). Utiliser les réseaux sociaux, la publicité en ligne et les partenariats avec les compagnies aériennes pour promouvoir l'application."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technologie": "Application mobile",
+          "description": "Développer une application mobile fonctionnelle sur iOS et Android pour faciliter la prise en main et l'utilisation par les utilisateurs."
+        },
+        {
+          "technologie": "Serveurs",
+          "description": "Mettre en place des serveurs cloud pour gérer les données, les transactions et les communications entre l'application et les aéroports."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Préparer une version beta de l'application, signer des partenariats avec les aéroports, effectuer un lancement officiel en mettant en ligne la version finale de l'application sur les plateformes App Store et Google Play, et promouvoir l'offre via marketing digital et publicités localisées."
+    }
+  ]
+}

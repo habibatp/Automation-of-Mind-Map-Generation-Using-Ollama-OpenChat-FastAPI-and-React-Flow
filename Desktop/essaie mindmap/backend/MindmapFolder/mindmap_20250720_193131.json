@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison des sacs permettrait de faciliter la gestion des courses et du transport d'objets pour les particuliers et les professionnels."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché sur les applications existantes pour la gestion des courses et du transport, l'analyse des besoins des clients et des opportunités de marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Vente à la demande d'applications et services de livraison, partenariats avec des entreprises de transport et de logistique."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Facturation par abonnement mensuel ou annuel, commission sur chaque transaction réalisée via l'application."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Particuliers, professionnels, entreprises, restaurants."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Stratégie de marketing axée sur la visibilité en ligne (réseaux sociaux, publicité en ligne), les partenariats avec des entreprises et des influenceurs, offres promotionnelles et tests bêta."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Développement d'une application mobile (iOS/Android) avec une interface utilisateur intuitive, API pour la gestion des livraisons, intégration de services de paiement en ligne."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Phase de développement et de test alpha, phase de développement et de test bêta, lancement officiel, promotion et marketing."
+    }
+  ]
+}

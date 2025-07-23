@@ -1,0 +1,68 @@
+{
+  "topic": "Créer une app de livraison des moto",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de moto pour offrir un service rapide et efficace de transport de nourriture et d'autres articles en quelques minutes."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché sur les applications de livraison existantes, les besoins des clients et des entreprises, ainsi que l'analyse des tendances et opportunités du marché."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "Platform",
+        "Revenue": "Commission",
+        "Costs": "Marketing, Maintenance, Support"
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Commission sur chaque transaction",
+        "Publicités dans l'application"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "Individuals": "Utilisateurs finaux",
+        "Businesses": "Restaurants et entreprises de livraison"
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Campagne d'acquisition, référencement en ligne, partenariats avec des restaurants et entreprises locales."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Backend": "Python/Django, Node.js/Express, Ruby on Rails"
+        },
+        {
+          "Frontend": "React.js, Angular, Vue.js"
+        },
+        {
+          "Mobile Apps": "React Native, Flutter, Swift (iOS), Kotlin (Android)"
+        },
+        {
+          "Database": "PostgreSQL, MongoDB, Firebase"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Beta test privée, lancement public local, expansion régionale et nationale"
+    }
+  ]
+}

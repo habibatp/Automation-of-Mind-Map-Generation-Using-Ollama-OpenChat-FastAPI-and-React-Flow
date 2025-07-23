@@ -1,0 +1,106 @@
+{
+  "topic": "Créer une app de pizzeria",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application mobile pour une pizzeria permettrait de faciliter la commande et la livraison des pizzas, améliorant ainsi l'expérience du client et augmentant les ventes."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Les recherches sur le marché devraient comprendre l'analyse des tendances actuelles en matière de restauration rapide et de livraison, des goûts des clients, ainsi que la concurrence existante et les opportunités d'amélioration."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Le modèle économique pour une application de pizzeria pourrait être basé sur les commissions des commandes, les abonnements mensuels pour les clients fidèles et la vente de produits supplémentaires tels que boissons et desserts."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "commission_per_order",
+          "description": "Commissions perçues sur chaque commande passée via l'application"
+        },
+        {
+          "type": "subscription",
+          "description": "Abonnements mensuels offrant des réductions et des avantages aux clients fidèles"
+        },
+        {
+          "type": "additional_products",
+          "description": "Ventes de produits supplémentaires tels que boissons, desserts et accessoires"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Personnes cherchant une solution de commande simple et rapide pour commander des pizzas",
+        "Clients déjà existants du restaurant souhaitant bénéficier d'avantages et de réductions",
+        "Utilisateurs de applications mobiles qui cherchent à découvrir de nouveaux restaurants"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Sites Web et Réseaux Sociaux",
+          "Publicité en ligne et affiliée",
+          "Partenariats avec d'autres applications mobiles et services similaires"
+        ],
+        "Strategies": [
+          "Promouvoir l'application et les avantages exclusifs pour les clients",
+          "Utiliser des codes promo et des offres spéciales pour attirer de nouveaux utilisateurs",
+          "Collaborer avec d'autres entreprises pour augmenter la visibilité"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "type": "mobile_application",
+          "description": "Application mobile développée pour iOS et Android"
+        },
+        {
+          "type": "backend_server",
+          "description": "Serveur de données pour gérer les commandes, les utilisateurs et les transactions"
+        },
+        {
+          "type": "payment_gateway",
+          "description": "Gestion des paiements intégrée pour faciliter les transactions"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Phases": [
+          "Phase de développement et de test",
+          "Lancement en version bêta pour un groupe sélectionné de clients",
+          "Lancien officiel avec une promotion et des offres spéciales"
+        ],
+        "Milestones": [
+          {
+            "name": "Développement de l'application",
+            "deadline": "2023-04-15"
+          },
+          {
+            "name": "Lancement en version bêta",
+            "deadline": "2023-05-15"
+          },
+          {
+            "name": "Lancien officiel",
+            "deadline": "2023-06-15"
+          }
+        ]
+      }
+    }
+  ]
+}

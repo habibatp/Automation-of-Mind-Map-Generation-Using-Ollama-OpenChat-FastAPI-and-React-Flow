@@ -1,0 +1,98 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs, permettant aux utilisateurs d'acheter des sacs de qualité en un simple clic et de les recevoir à domicile."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché sur les tendances du e-commerce, la demande pour les articles de voyage et les sacs en particulier, ainsi que l'analyse des concurrents existants et de leurs offres."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "E-commerce",
+        "Value Proposition": "Offrir une sélection de sacs de qualité à domicile, simplifiant le processus d'achat et d'expédition.",
+        "Unique Selling Point": "Livraison rapide et sécurisée des sacs à domicile."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Vente de produits",
+          "Description": "Les revenus seraient générés par la vente des sacs via l'application."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Voyageurs",
+          "Description": "Les personnes qui voyagent régulièrement et ont besoin de sacs de voyage robustes et pratiques."
+        },
+        {
+          "Segment": "Acheteurs en ligne",
+          "Description": "Les personnes qui préfèrent acheter des articles sur Internet plutôt que dans les magasins physiques."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "Channel": "Social Media",
+          "Strategy": "Mettre en avant les avantages de l'application sur les réseaux sociaux, telles que des publicités ciblées et des partenariats avec des influenceurs."
+        },
+        {
+          "Channel": "Content Marketing",
+          "Strategy": "Créer des articles de blog et des tutoriels pour encourager les achètes à utiliser l'application et à apprendre plus sur les sacs."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Component": "Application Mobile",
+          "Platform": "iOS, Android"
+        },
+        {
+          "Component": "Back-end",
+          "Technologies": "Python (Django), PostgreSQL"
+        },
+        {
+          "Component": "Front-end",
+          "Technologies": "ReactJS, Redux"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "Phase": "Alpha Testing",
+          "Description": "Test interne de l'application avec un groupe limité d'utilisateurs."
+        },
+        {
+          "Phase": "Beta Testing",
+          "Description": "Lancer une version bêta publique pour recueillir des retours utilisateur et améliorer l'application."
+        },
+        {
+          "Phase": "Lancement officiel",
+          "Description": "Mettre en ligne l'application sur les app stores et commencer à promouvoir le produit auprès du grand public."
+        }
+      ]
+    }
+  ]
+}

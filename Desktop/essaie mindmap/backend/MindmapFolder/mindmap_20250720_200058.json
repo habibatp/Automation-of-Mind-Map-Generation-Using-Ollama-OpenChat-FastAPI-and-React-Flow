@@ -1,0 +1,106 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs pour faciliter le transport des courses et du matériel en utilisant des véhicules automatisés."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances actuelles et futures dans le secteur des services de livraison, les technologies d'intelligence artificielle et robotique, ainsi que l'offre et la demande en matière de transport de sacs."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Système de franchises ou de licences pour permettre aux entrepreneurs locaux de créer des filiales dans leur région, avec une marque nationale ou internationale."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "stream": "Frais de livraison",
+          "description": "Charges perçues auprès des clients pour le service de livraison de sacs."
+        },
+        {
+          "stream": "Partenariats avec les commerces",
+          "description": "Commissions reçues des commerces partenaires pour la promotion et l'utilisation de leur marque et de leurs produits."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "segment": "Familles",
+          "description": "Familles ayant besoin de transporter des courses ou du matériel entre domicile et magasin."
+        },
+        {
+          "segment": "Entreprises",
+          "description": "Entreprises qui ont besoin de transporter des sacs de travail, de fournitures ou d'autres objets entre différentes sites."
+        },
+        {
+          "segment": "Éducation",
+          "description": "Écoles et universités ayant besoin de transporter du matériel scolaire ou universitaire."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "strategy": "Stratégie de PR et d'influence",
+          "description": "Collaborer avec des influenceurs dans le secteur de la technologie et de l'innovation pour promouvoir l'application."
+        },
+        {
+          "strategy": "Marketing en ligne",
+          "description": "Créez un site web et utilisez les réseaux sociaux pour promouvoir l'application et générer des leads."
+        },
+        {
+          "strategy": "Partenariats",
+          "description": "Collaborer avec des entreprises locales et nationales pour promouvoir l'application et créer des synergies."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Intelligence artificielle",
+          "role": "Développement de l'algorithme pour gérer les itinéraires et les opérations automatisées."
+        },
+        {
+          "technology": "Robotique",
+          "role": "Conception et développement des véhicules automatisés utilisés pour le transport des sacs."
+        },
+        {
+          "technology": "Mobile",
+          "role": "Création de l'application mobile permettant la gestion des commandes et des livraisons."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "stage": "Phase de test",
+          "description": "Test de l'application en interne et auprès de clients sélectionnés pour identifier les problèmes et améliorer l'expérience utilisateur."
+        },
+        {
+          "stage": "Lancement officiel",
+          "description": "Lancer l'application sur le marché et promouvoir activement le produit auprès des clients potentiels."
+        },
+        {
+          "stage": "Poursuite du développement",
+          "description": "Écouter les commentaires des utilisateurs et améliorer continuellement l'application en fonction des besoins et attentes des clients."
+        }
+      ]
+    }
+  ]
+}

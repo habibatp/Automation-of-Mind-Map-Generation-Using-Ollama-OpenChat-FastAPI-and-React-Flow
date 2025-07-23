@@ -1,0 +1,75 @@
+{
+  "topic": "Créer une app sur la sante comme myfitnesspal",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de santé similaire à MyFitnessPal, permettant aux utilisateurs de suivre et d'améliorer leur santé et leur bien-être."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche du marché pour identifier les besoins des utilisateurs, les tendances actuelles en matière de santé et de bien-être, et l'offre concurrente existante."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'entreprise basé sur la monétisation des abonnements, vente de services supplémentaires et publicité"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "type": "abonnement_mois",
+          "prix": "10$"
+        },
+        {
+          "type": "services_supplémentaires",
+          "prix": "variable"
+        },
+        {
+          "type": "publicite",
+          "prix": "commission_sur_les_ventes"
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "personnes souhaitant suivre et améliorer leur santé",
+        "personnes à prédisposition à un mode de vie plus actif",
+        "professionnels de la santé"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plateforme de marketing en ligne pour attirer les utilisateurs potentiels, tels que des réseaux sociaux, des partenariats avec d'autres entreprises et des campagnes publicitaires ciblées"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technologie": "programmation_mobile",
+          "plateforme": "iOS et Android"
+        },
+        {
+          "technologie": "API",
+          "fonctionnalité": "intégration_de_données"
+        },
+        {
+          "technologie": "cloud",
+          "service": "stockage_et_traitement_des_données"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Lancement en plusieurs étapes : création de la plateforme, marketing et promotion, acquisition de clients et mise à jour continue"
+    }
+  ]
+}

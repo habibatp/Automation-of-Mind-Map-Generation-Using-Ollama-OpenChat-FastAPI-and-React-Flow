@@ -1,0 +1,93 @@
+{
+  "topic": "Créer une app de livraison des sacs a dos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de livraison de sacs à dos en ligne et en application mobile."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances actuelles du marché des sacs à dos, les besoins des clients et les solutions existantes pour identifier des opportunités d'amélioration et de création de valeur."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "E-commerce",
+        "Value Proposition": "Offrir un large choix de sacs à dos de qualité, personnalisables, livrés rapidement et facilement aux clients.",
+        "Unique Selling Point": "Service de livraison rapide des sacs à dos personnalisés"
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Vente de produits",
+          "Description": "Générer des revenus grâce à la vente de sacs à dos en ligne."
+        },
+        {
+          "Type": "Personnalisation",
+          "Description": "Charges pour les personnalisations des sacs à dos."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Amateurs de design de sacs à dos",
+        "Utilisateurs souhaitant acheter un sac de qualité.",
+        "Entreprises voulant offrir des sacs à dos personnalisés à leurs employés ou clients."
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "Type": "Sérialisation",
+          "Description": "Collaborer avec des influencers du design et des voyageurs pour promouvoir le service et les produits."
+        },
+        {
+          "Type": "Partenariats",
+          "Description": "Établir des partenariats avec des marques de vêtements ou d'accessoires pour offrir des packages promotionnels."
+        },
+        {
+          "Type": "Publicité en ligne",
+          "Description": "Cibler les utilisateurs intéressés par les sacs à dos et la personnalisation sur les réseaux sociaux et Google Ads."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Front-end": "HTML, CSS, JavaScript",
+        "Back-end": "Node.js, Express, MongoDB",
+        "Personnalisation": "API de personnalisation des sacs à dos",
+        "Livraison": "APIs de transport et logistique"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "Étape": "Alpha Testing",
+          "Description": "Test interne du produit pour identifier les problèmes de conception."
+        },
+        {
+          "Étape": "Bêta Testing",
+          "Description": "Permettre aux utilisateurs de tester et donner des retours sur le produit."
+        },
+        {
+          "Étape": "Lancement officiel",
+          "Description": "Commencer à offrir le service en ligne et en application mobile."
+        }
+      ]
+    }
+  ]
+}

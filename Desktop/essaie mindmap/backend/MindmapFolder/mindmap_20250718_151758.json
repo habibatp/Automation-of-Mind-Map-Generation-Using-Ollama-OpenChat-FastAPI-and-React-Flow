@@ -1,0 +1,45 @@
+{
+  "topic": "Créer une app de shop des appareil elecronique ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de magasin pour acheter et vendre des appareils électroniques."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché, les besoins des clients, les concurrents et les opportunités pour mieux comprendre l'environnement dans lequel sera placée notre application."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Un modèle de business basé sur la vente d'appareils électroniques via notre plateforme, ainsi que des services d'assistance technique et d'entretien des produits."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Les revenus seront générés par les commissions perçues sur chaque vente d'appareils électroniques, ainsi que par les services supplémentaires offerts aux clients."
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Nos segments de clients incluront les amateurs et les professionnels d'électronique, les acheteurs de cadeaux pour fêtes ou occasions spéciales et les utilisateurs souhaitant remplacer ou améliorer leurs appareils."
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Un plan marketing comprenant une présence forte sur les réseaux sociaux, des collaborations avec d'autres marques et entrepreneurs, ainsi que la création de contenu éditorial pour attirer et réténir nos clients."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Une stack technologique composée d'une plateforme mobile (iOS et Android), d'un système de gestion des ventes (ERP), de services cloud et d'outils de marketing numérique."
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Un plan de lancement qui comprend le développement, le marketing et la promotion de notre application, ainsi que la préparation du personnel et des processus pour assurer un démarrage réussi."
+    }
+  ]
+}

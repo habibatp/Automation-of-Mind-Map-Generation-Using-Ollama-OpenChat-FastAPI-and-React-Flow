@@ -1,0 +1,92 @@
+{
+  "topic": "Créer une app de livraison éco-responsable",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison éco-responsable pour faciliter les achats en ligne et les livraisons de produits durables et locaux, tout en réduisant la pollution et le gaspillage."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier le marché des applications de livraison actuelles, les tendances éco-responsables et la demande croissante de produits durables. Identifier les nichettes de marché et les opportunités d'amélioration en matière d'impact environnemental."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "B2C",
+        "Value Proposition": "Livraison rapide, éco-responsable et locale de produits durables.",
+        "Customer Acquisition Cost": "Réduire les coûts de marketing en axant la stratégie sur la communauté éco-responsable et les partenariats."
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Commission",
+          "Description": "Frais de commission pour chaque transaction réalisée via l'application."
+        },
+        {
+          "Type": "Promotion",
+          "Description": "Partenariats avec des entreprises durables et locaux pour offrir des promotions et des remises exclusives aux utilisateurs de l'app."
+        },
+        {
+          "Type": "Préférence",
+          "Description": "Offrir une version premium avec moins d'annonces ou des fonctionnalités supplémentaires pour un abonnement mensuel ou annuel."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Eco-conscious Consumers",
+          "Description": "Personnes soucieuses de l'impact environnemental et de la durabilité des produits qu'elles achètent."
+        },
+        {
+          "Segment": "Local Businesses",
+          "Description": "Entreprises locales et éco-responsables qui cherchent à se développer et à atteindre un public plus large."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Social Media",
+          "Influenceurs",
+          "Partenariats avec des organisations éco-responsables",
+          "Email Marketing",
+          "Public Relations"
+        ],
+        "Strategies": [
+          "Réseauter auprès d'influenceurs et de marques durables.",
+          "Organiser des événements en ligne ou en personne pour promouvoir l'application et ses valeurs éco-responsables."
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React Native",
+        "Backend": "Node.js avec Express",
+        "Database": "MongoDB",
+        "APIs": "Google Maps API, Stripe API"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Beta Testing": "Effectuer des tests bêta auprès d'utilisateurs et d'entreprises locales.",
+        "Marketing Campaigns": "Lancer des campagnes marketing ciblées pour attirer les utilisateurs et les partenaires.",
+        "Official Launch": "Lancer officiellement l'application lors d'un événement en ligne ou en personne."
+      }
+    }
+  ]
+}

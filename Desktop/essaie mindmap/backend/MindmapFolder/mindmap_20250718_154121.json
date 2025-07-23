@@ -1,0 +1,83 @@
+{
+  "topic": "Créer une app de shop des appareil elecronique ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de magasin en ligne spécialisée dans les appareils électroniques"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étudier les tendances du marché des appareils électroniques, les préférences des consommateurs et les concurrents existants pour identifier les opportunités et les défis"
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "E-commerce",
+        "Value Proposition": "Offrir une sélection de produits d'appareils électroniques divers, abordables et à la portée de tous",
+        "Unique Selling Point": "Une expérience utilisateur améliorée et des offres spéciales pour attirer les clients"
+      }
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        "Vente de produits",
+        "Commission sur les ventes par associés",
+        "Publicité"
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "Target Market": "Consommateurs d'appareils électroniques, en particulier ceux qui aiment les technologies innovantes et cherchent des réductions",
+        "Personas": [
+          {
+            "Name": "John Doe",
+            "Age": 25,
+            "Occupation": "Étudiant",
+            "Interests": "Technologie, jeux vidéo, streaming"
+          },
+          {
+            "Name": "Jane Smith",
+            "Age": 35,
+            "Occupation": "Employée de bureau",
+            "Interests": "Ordinateurs, téléphones portables, gadgets"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Channels": [
+          "Social Media",
+          "Email Marketing",
+          "SEO",
+          "Affiliate Program"
+        ],
+        "Strategy": "Créer une présence en ligne forte sur les réseaux sociaux, offrir des incitations et des offres spéciales pour attirer et retenir les clients"
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Platform": "Mobile",
+          "Language": "Swift pour iOS ou Kotlin pour Android",
+          "Backend": "Node.js ou Python"
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Développer et tester l'application, effectuer un lancement progressif avec une promotion intensive pour attirer les utilisateurs et recueillir des retours d'utilisateurs avant de procéder à un lancement complet"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "topic": "Créer une app de livraison  des motos",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison de motos pour faciliter les services de livraison rapides et efficaces en ville."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché pour identifier les besoins des clients, connaître la concurrence et déterminer l'offre de service qui correspond le mieux aux attentes des utilisateurs."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'entreprise basé sur les commissions perçues auprès des restaurants et des motocyclettes partenaires pour chaque livraison effectuée en utilisant notre application."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "stream_type": "Commission",
+          "description": "Percevoir une commission sur chaque livraison réalisée grâce à l'application."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        "Restaurants",
+        "Clients qui commandent des plats en ligne"
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan de marketing pour promouvoir l'application auprès des restaurants et des clients potentiels, incluant la création d'un site web, une présence sur les réseaux sociaux et des partenariats stratégiques."
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "technology": "Frontend",
+          "description": "Développement de l'interface utilisateur pour smartphones et tablettes."
+        },
+        {
+          "technology": "Backend",
+          "description": "Création d'un serveur pour gérer les demandes, les commandes, les paiements et la communication avec les partenaires."
+        },
+        {
+          "technology": "Mobile App",
+          "description": "Développement d'une application mobile pour Android et iOS."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement de l'application, comprenant la sélection des restaurants partenaires, le recrutement et la formation des motocyclettes, ainsi que la promotion auprès des clients potentiels."
+    }
+  ]
+}

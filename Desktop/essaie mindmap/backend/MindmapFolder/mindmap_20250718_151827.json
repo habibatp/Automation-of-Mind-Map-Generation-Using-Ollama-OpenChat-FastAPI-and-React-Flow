@@ -1,0 +1,83 @@
+{
+  "topic": "Créer une app de shop des appareil elecronique ",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une application de magasin en ligne spécialisée dans l'achat et la vente d'appareils électroniques."
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Recherche de marché pour déterminer les tendances actuelles du marché des appareils électroniques, les besoins des clients et les concurrents existants. Analyse des données pour identifier des opportunités et des faiblesses."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": {
+        "Type": "e-commerce",
+        "Value Proposition": "Offrir une sélection de produits électroniques de qualité à des prix compétitifs, avec un service clientèle exceptionnel et une expérience d'achat facile et sûre.",
+        "Revenue Streams": [
+          "Vente de produits",
+          "Commissions sur les ventes",
+          "Publicité"
+        ]
+      }
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": {
+        "Target Market": "Les acheteurs de produits électroniques, principalement les jeunes adultes et les technophiles.",
+        "Additional Segments": [
+          "Entraîneurs",
+          "Créateurs de contenu",
+          "Entrepreneurs"
+        ]
+      }
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": {
+        "Strategies": [
+          "Publicité en ligne",
+          "Marketing par e-mail",
+          "Partenariats avec des influencers et des blogueurs technologiques"
+        ],
+        "Channels": [
+          "Réseaux sociaux",
+          "Blog",
+          "Forums en ligne pour les amoureux de la technologie"
+        ]
+      }
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": {
+        "Frontend": "React.js ou Vue.js",
+        "Backend": "Node.js avec Express",
+        "Database": "MongoDB ou PostgreSQL",
+        "Hosting": "Amazon Web Services (AWS) ou Google Cloud Platform (GCP)"
+      }
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": {
+        "Phases": [
+          "Phase 1 - Test privé",
+          "Phase 2 - Lancement beta",
+          "Phase 3 - Lancement officiel"
+        ],
+        "Milestones": [
+          "Développement du site",
+          "Testing et résolution des bugs",
+          "Mise en place de la publicité et des partenariats",
+          "Lancé officiel avec marketing intensif"
+        ]
+      }
+    }
+  ]
+}

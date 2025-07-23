@@ -1,0 +1,45 @@
+{
+  "topic": "app de magazin",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "App de magasin"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Étude du marché"
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle économique"
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": "Cours d'eau de revenu"
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": "Segment de clients"
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": "Plan marketing"
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": "Stack technologique"
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": "Plan de lancement"
+    }
+  ]
+}

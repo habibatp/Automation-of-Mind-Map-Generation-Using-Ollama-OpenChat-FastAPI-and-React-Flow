@@ -1,0 +1,102 @@
+{
+  "topic": "Créer une app de livraison des sacs",
+  "sections": [
+    {
+      "title": "Idea",
+      "icon": "💡",
+      "content": "Créer une app de livraison des sacs"
+    },
+    {
+      "title": "Market Research",
+      "icon": "📊",
+      "content": "Analyse du marché et recherche de données sur les tendances de l'e-commerce, les besoins des consommateurs en matière de transport de bagages et de valises, et les concurrents existants."
+    },
+    {
+      "title": "Business Model",
+      "icon": "💼",
+      "content": "Modèle d'affaires basé sur la commission des livraisons effectuées par les transporteurs indépendants."
+    },
+    {
+      "title": "Revenue Streams",
+      "icon": "💰",
+      "content": [
+        {
+          "Type": "Commission",
+          "Description": "Frais de commission perçus de chaque livraison réussie effectuée par un transporteur."
+        }
+      ]
+    },
+    {
+      "title": "Customer Segments",
+      "icon": "🎯",
+      "content": [
+        {
+          "Segment": "Voyageurs et voyageuses",
+          "Description": "Personnes qui ont besoin d'envoyer des sacs, des valises ou autres bagages à un emplacement déterminé."
+        },
+        {
+          "Segment": "Entreprises de transport",
+          "Description": "Entreprises fournissant des services de transport de marchandises et ayant besoin de transporter des sacs ou des valises."
+        }
+      ]
+    },
+    {
+      "title": "Marketing Plan",
+      "icon": "📣",
+      "content": [
+        {
+          "Strategy": "Attractive offre",
+          "Description": "Mettre en avant les avantages de l'app pour attirer les utilisateurs potentiels."
+        },
+        {
+          "Strategy": "Partenariats",
+          "Description": "Établir des partenariats avec d'autres entreprises du secteur pour augmenter la visibilité et la notoriété de l'app."
+        },
+        {
+          "Strategy": "Sponsoring",
+          "Description": "Participer à des événements liés au tourisme ou au transport pour promouvoir l'app auprès du public."
+        }
+      ]
+    },
+    {
+      "title": "Technology Stack",
+      "icon": "🛠️",
+      "content": [
+        {
+          "Tool": "Langage de programmation",
+          "Description": "Langage utilisé pour développer l'application, tel que Python, Java ou Swift."
+        },
+        {
+          "Tool": "Framework",
+          "Description": "Framework utilisé pour développer l'application, comme React Native ou Flutter."
+        },
+        {
+          "Tool": "API",
+          "Description": "API utilisées pour interagir avec les services de location de véhicules et de livraison."
+        }
+      ]
+    },
+    {
+      "title": "Launch Plan",
+      "icon": "🚀",
+      "content": [
+        {
+          "Step": "Développement de l'application",
+          "Description": "Mise en place du développement de l'application en suivant les spécifications et le planning définis."
+        },
+        {
+          "Step": "Test de l'application",
+          "Description": "Test extensif de l'application pour identifier et corriger les problèmes potentiels."
+        },
+        {
+          "Step": "Lancement officiel",
+          "Description": "Lancement de l'application sur les plateformes d'application appropriées."
+        },
+        {
+          "Step": "Marketing et promotion",
+          "Description": "Mise en œuvre du plan marketing pour promouvoir et populariser l'application."
+        }
+      ]
+    }
+  ]
+}
